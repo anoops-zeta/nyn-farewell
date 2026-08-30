@@ -229,8 +229,8 @@
       {
         "type": "message",
         "from": "them",
-        "sender": "Jayant Jaiswal",
-        "senderColor": "red",
+        "sender": "Violet Fernandes",
+        "senderColor": "purple",
         "time": "2:07 pm",
         "blocks": [
           {
@@ -246,8 +246,8 @@
       {
         "type": "message",
         "from": "them",
-        "sender": "Jim Kim",
-        "senderColor": "yellow",
+        "sender": "Pallavi Shukla",
+        "senderColor": "pink",
         "time": "4:15 pm",
         "blocks": [
           {
@@ -286,8 +286,8 @@
       {
         "type": "message",
         "from": "them",
-        "sender": "Saransh Sharma",
-        "senderColor": "green",
+        "sender": "Anoop Sethumadhavan",
+        "senderColor": "purple",
         "time": "12:23 pm",
         "blocks": [
           {
