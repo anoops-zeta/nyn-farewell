@@ -47,7 +47,7 @@ export function Avatar({
   ring?: string;
 }) {
   const letters = initials || initialsFromName(name);
-  const radius = kind === "group" ? Math.max(6, Math.round(size * 0.22)) : size / 2;
+  const radius = size / 2;
   const badge = Math.round(size * 0.28);
 
   return (

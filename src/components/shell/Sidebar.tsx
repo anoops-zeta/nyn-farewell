@@ -195,7 +195,7 @@ export function Sidebar() {
 
       <div className="teams-scroll teams-scroll-sidebar min-h-0 flex-1 overflow-y-auto pb-2">
         <NavRow
-          icon={<IconSparkle size={22} className="text-accent" />}
+          icon={<IconSparkle size={22} className="text-white" />}
           label="Copilot"
           selected={view.kind === "copilot"}
           onSelect={() => navigate({ kind: "copilot" })}
