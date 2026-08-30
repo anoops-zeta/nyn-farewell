@@ -363,3 +363,51 @@ concept of being rated. The scoring is doing more comic work than several of the
 keep it if you trim anything.
 
 Copilot now has 16 rules, including a payments one.
+
+---
+
+# User-supplied spare bank (Aug 2026)
+
+Canonical unused PJs. Prefer these over inventing new ones. Do not reuse a line already
+placed in the product unless the user asks.
+
+**Placed**
+| PJ | Where |
+|---|---|
+| Why did the coin go to school? To make some change. | PayZapp Studio pinned bar |
+| Why was the piggy bank so wise? It had a lot of cents. | Thursday Club — after Zapp Account shipped |
+| Why did the laptop go to therapy? Too many unresolved issues. | GFF War Room — backup laptop |
+| Why did the singer bring a ladder? To reach the high notes. | Offsite '25 — one more song |
+| Why was the treadmill so philosophical? It had been going nowhere for years. | Thursday Football — gym then turf |
+| Why don't computers ever get hungry? They've already had a byte. | PayZapp Studio — leftover sweets |
+
+**Money and payments**
+- Why did the coin go to school? To make some change. *(placed — Studio pin)*
+- Why was the piggy bank so wise? It had a lot of cents. *(placed — Thursday Club)*
+- Why did the credit card go to therapy? Too many charges against it.
+- Why did the cashier quit? He couldn't make ends meet.
+
+**Software and devices**
+- Why did the phone wear glasses? It lost its contacts.
+- Why was the keyboard so tired? Too many shifts.
+- Why don't computers ever get hungry? They've already had a byte. *(placed — Studio)*
+- Why did the laptop go to therapy? Too many unresolved issues. *(placed — GFF War Room)*
+- Why was the WiFi upset? It lost its connection.
+
+**Office**
+- Why did the coffee call the police? It got mugged.
+- Why did the stapler get promoted? It held everything together.
+- Why did the chair apologise? It had been sitting on the issue.
+- Why did the broom retire? It was tired of sweeping things under the rug.
+
+**Canteen**
+- Why did the dosa go to therapy? It kept folding under pressure.
+- Why did the biryani get promoted? It had layers.
+
+**His own world**
+- Why was the bike so tired? It was two-tyred.
+- Why did the car go to therapy? Too many breakdowns.
+- Why was the treadmill so philosophical? It had been going nowhere for years. *(placed — Thursday Football)*
+- Why did the singer bring a ladder? To reach the high notes. *(placed — Offsite '25)*
+- Why was the corn so good at keeping secrets? It kept everything in its ears.
+

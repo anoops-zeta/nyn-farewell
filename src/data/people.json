@@ -74,6 +74,11 @@
     "section": "favourites",
     "order": 2,
     "unread": true,
+    "pinnedMessage": {
+      "author": "Narayan Babu",
+      "text": "Why did the coin go to school? To make some change.",
+      "date": "23/01/23"
+    },
     "notice": "Narayan Babu is out of office and may not respond",
     "thread": [
       {
@@ -625,6 +630,21 @@
           "🙏",
           "🙏"
         ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "5:44 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Why don't computers ever get hungry? They've already had a byte."
+          }
+        ],
+        "reactions": [
+          "🥴",
+          "😂"
+        ]
       }
     ]
   },
@@ -837,7 +857,15 @@
           {
             "kind": "text",
             "value": "One day. Told you."
+          },
+          {
+            "kind": "text",
+            "value": "Why was the piggy bank so wise? It had a lot of cents."
           }
+        ],
+        "reactions": [
+          "🥴",
+          "😂"
         ]
       },
       {
@@ -1376,6 +1404,10 @@
           {
             "kind": "text",
             "value": "Fine, one more. But I'm stopping while I'm on a high note."
+          },
+          {
+            "kind": "text",
+            "value": "Why did the singer bring a ladder? To reach the high notes."
           }
         ],
         "reactions": [
@@ -1520,6 +1552,21 @@
             "kind": "text",
             "value": "Backup laptop is on the table. Clicker's with me."
           }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "2:57 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Why did the laptop go to therapy? Too many unresolved issues."
+          }
+        ],
+        "reactions": [
+          "🥴",
+          "😂"
         ]
       },
       {
@@ -2094,12 +2141,17 @@
           {
             "kind": "text",
             "value": "I'll be there. Same slot — gym first, then turf."
+          },
+          {
+            "kind": "text",
+            "value": "Why was the treadmill so philosophical? It had been going nowhere for years."
           }
         ],
         "reactions": [
           "❤️",
           "❤️",
-          "⚽"
+          "⚽",
+          "🥴"
         ]
       },
       {

@@ -1,0 +1,14 @@
+---
+description: Use the user-supplied PJ spare bank instead of inventing new jokes.
+alwaysApply: true
+---
+
+# PJ spare bank
+
+When you need a Narayan dad-joke / PJ (pinned bars, Copilot, thread lines, chips):
+
+1. Read unused lines in `from-claude/pj-bank.md` under **User-supplied spare bank**.
+2. Pick one that fits the surface (payments → money; devices → software; karaoke → singer; etc.).
+3. Prefer classic `Why did X? Y.` setup/punchline. Keep it short for pinned bars.
+4. Do not invent a new PJ if a spare fits. Do not reuse a line already marked **placed**.
+5. After placing one, mark it **placed** in that section with where it went.
