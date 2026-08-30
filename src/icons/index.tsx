@@ -7,6 +7,7 @@ import {
   CaretRight,
   ChatTeardropText,
   Compass,
+  DotsNine,
   DotsThree,
   DownloadSimple,
   FileDoc,
@@ -51,6 +52,7 @@ function ph(IconCmp: Icon, defaultSize = 20, extra?: Partial<PhosphorProps>) {
   };
 }
 
+export const IconApps = ph(DotsNine, 20, { weight: "bold" });
 export const IconPanelLeft = ph(SidebarSimple);
 export const IconPanelRight = ph(SidebarSimple, 20, { mirrored: true });
 export const IconChevronLeft = ph(CaretLeft, 18);
