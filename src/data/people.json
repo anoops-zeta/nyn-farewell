@@ -1341,6 +1341,22 @@
       },
       {
         "type": "message",
+        "from": "nyn",
+        "time": "9:44 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I told the team I needed space. They added eight pixels."
+          }
+        ],
+        "reactions": [
+          "🥴",
+          "😂",
+          "😂"
+        ]
+      },
+      {
+        "type": "message",
         "from": "them",
         "time": "9:44 pm",
         "blocks": [
@@ -2493,7 +2509,7 @@
         "blocks": [
           {
             "kind": "text",
-            "value": "Starting this so I stop doing it in reviews."
+            "value": "Starting this so I stop cracking it in townhalls / bank meetings."
           },
           {
             "kind": "text",

@@ -201,6 +201,9 @@ function VideoBlock({
   const [soon, setSoon] = useState(false);
   const [failedPoster, setFailedPoster] = useState(false);
 
+  const portraitMediaClass =
+    "block h-auto max-h-[520px] w-auto max-w-full rounded-md";
+
   let player;
   if (embedUrl && !placeholder) {
     player = (
@@ -220,7 +223,7 @@ function VideoBlock({
         controls
         playsInline
         preload="metadata"
-        className="aspect-video w-full rounded-md bg-[#1a1a2a] object-cover"
+        className={portraitMediaClass}
       />
     );
   } else {
@@ -230,7 +233,7 @@ function VideoBlock({
         onClick={() => {
           if (placeholder) setSoon(true);
         }}
-        className="relative block w-full overflow-hidden rounded-md bg-[#1a1a2a] text-left"
+        className="relative block w-fit max-w-full overflow-hidden rounded-md bg-[#1a1a2a] text-left"
       >
         {poster && !failedPoster ? (
           <img
@@ -238,12 +241,12 @@ function VideoBlock({
             alt=""
             loading="lazy"
             width={360}
-            height={202}
+            height={640}
             onError={() => setFailedPoster(true)}
-            className="aspect-video w-full object-cover"
+            className={portraitMediaClass}
           />
         ) : (
-          <div className="aspect-video w-full bg-[#252538]" />
+          <div className="aspect-[9/16] h-auto max-h-[520px] w-auto bg-[#252538]" />
         )}
         <span className="absolute inset-0 flex items-center justify-center">
           <span className="flex h-14 w-14 items-center justify-center rounded-full bg-black/55 text-white">
@@ -260,7 +263,7 @@ function VideoBlock({
   }
 
   return (
-    <div className="w-[min(360px,100%)]" style={{ maxWidth: 360 }}>
+    <div className="w-fit max-w-[min(360px,100%)]">
       {player}
       {transcript ? (
         <div className="mt-2 rounded-md bg-black/25 px-2.5 py-2">
