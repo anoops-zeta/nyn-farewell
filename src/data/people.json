@@ -372,7 +372,7 @@
       {
         "type": "message",
         "from": "them",
-        "sender": "Vikram Bhati",
+        "sender": "Karishma L.",
         "senderColor": "pink",
         "time": "5:40 pm",
         "blocks": [
@@ -392,7 +392,7 @@
       {
         "type": "message",
         "from": "them",
-        "sender": "Ganesh R",
+        "sender": "khusboo khandelwal",
         "senderColor": "blue",
         "time": "2:28 pm",
         "blocks": [
@@ -409,8 +409,8 @@
       {
         "type": "message",
         "from": "them",
-        "sender": "Jayant Jaiswal",
-        "senderColor": "red",
+        "sender": "Pallavi Shukla",
+        "senderColor": "pink",
         "time": "11:05 am",
         "blocks": [
           {
@@ -482,7 +482,7 @@
           {
             "kind": "image",
             "src": "/media/web/img-20251016-131702.jpg",
-            "caption": "Ethnic Day at PayZapp. Kurtas, sarees, veshtis — Narayan in white kurta and dhoti."
+            "caption": "Ethnic Day at PayZapp. Kurtas, sarees, veshtis."
           }
         ],
         "sender": "Abhishek Nair",
@@ -506,8 +506,8 @@
       {
         "type": "message",
         "from": "them",
-        "sender": "Saransh Sharma",
-        "senderColor": "green",
+        "sender": "Violet Fernandes",
+        "senderColor": "purple",
         "time": "3:05 pm",
         "blocks": [
           {
