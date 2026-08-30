@@ -1,0 +1,181 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  Colour tokens eyedropped from the attached Teams 2.x macOS dark-theme
+  screenshots (1024×665 captures — likely downscaled, so tiny accents like
+  the Update button were unreliable). Surfaces come from the shots;
+  Fluent accents that compression muddied stay close to the spec.
+
+  Spec vs screenshot (screenshot wins where they disagree):
+  - --window-chrome  spec #0A0A0A  →  #000000
+  - --topbar         spec #2A2833  →  #2F243F
+  - --sidebar        spec #1F1F1F (same as pane)  →  #241F2C
+  - --surface        spec #1F1F1F  →  #1F1F1F  (conversation pane, correct)
+  - --search-pill    spec #3A3745  →  #242424  (darker than the top bar, not lighter)
+  - --row-selected   spec #333338  →  #2B2A2F
+  - --bubble-out     spec #3B3D63  →  #2B2C41  (text mixed into samples; using the large fill)
+  - --notice-bg      spec #3A2F52  →  #3A1236  (deeper magenta)
+  - --accent / --brand-btn / --mention / presence: kept near spec; shots are too compressed
+*/
+
+:root {
+  --window-chrome: #000000;
+  --topbar: #2f243f;
+  --search-pill: #242424;
+  --surface: #1f1f1f;
+  --sidebar: #241f2c;
+  --row-selected: #35343c;
+  --row-selected-subtle: rgba(255, 255, 255, 0.03);
+  --row-selected-border: rgba(255, 255, 255, 0.16);
+  --row-hover: #2a2633;
+  --bubble-in: #2e2e2e;
+  --bubble-out: #2b2c41;
+  --card: #2a2a2a;
+  --divider: #3b3b3b;
+  --text-primary: #ededed;
+  --text-secondary: #adadad;
+  --accent: #7f85f5;
+  --brand-btn: #5b5fc7;
+  --mention: #e8956b;
+  --notice-bg: #3a1236;
+  --presence-available: #6bb700;
+  --presence-away: #f8d22a;
+  --presence-busy: #c4314b;
+  --presence-ooo: #b4a0ff;
+  --presence-offline: #8a8a8a;
+  --badge: #c4314b;
+  --compose: #292929;
+  --pinned: #242424;
+  --icon-muted: #c8c8c8;
+  --pill-border: #5c5c5c;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  height: 100dvh;
+  margin: 0;
+  background: var(--surface);
+  color: var(--text-primary);
+  font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, system-ui,
+    "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+}
+
+button,
+input,
+textarea {
+  font-family: inherit;
+}
+
+button {
+  background: none;
+  border: none;
+  padding: 0;
+  color: inherit;
+  cursor: pointer;
+}
+
+/* Thin Teams-like scrollbars */
+.teams-scroll::-webkit-scrollbar {
+  width: 8px;
+}
+.teams-scroll-sidebar {
+  padding-right: 2px;
+  scrollbar-width: thin;
+  scrollbar-color: #5a5a5a transparent;
+}
+.teams-scroll-sidebar::-webkit-scrollbar {
+  width: 6px;
+}
+.teams-scroll::-webkit-scrollbar-track,
+.teams-scroll-sidebar::-webkit-scrollbar-track {
+  background: transparent;
+}
+.teams-scroll::-webkit-scrollbar-thumb,
+.teams-scroll-sidebar::-webkit-scrollbar-thumb {
+  background: #5a5a5a;
+  border-radius: 8px;
+}
+.teams-scroll-sidebar::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+}
+.teams-scroll::-webkit-scrollbar-thumb:hover,
+.teams-scroll-sidebar::-webkit-scrollbar-thumb:hover {
+  background: #6e6e6e;
+}
+
+@media (max-width: 767px) {
+  .teams-scroll,
+  .teams-scroll-sidebar {
+    scrollbar-width: none;
+  }
+  .teams-scroll::-webkit-scrollbar,
+  .teams-scroll-sidebar::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+    display: none;
+  }
+}
+
+.icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 4px;
+  color: var(--icon-muted);
+}
+.icon-btn:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text-primary);
+}
+.icon-btn:disabled,
+.icon-btn[aria-disabled="true"] {
+  opacity: 0.35;
+  cursor: default;
+  background: transparent;
+}
+
+@keyframes typing-bounce {
+  0%,
+  60%,
+  100% {
+    transform: translateY(0);
+    opacity: 0.4;
+  }
+  30% {
+    transform: translateY(-4px);
+    opacity: 1;
+  }
+}
+
+.typing-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #c8c8c8;
+  animation: typing-bounce 1.2s infinite ease-in-out;
+}
+
+.typing-dot:nth-child(2) {
+  animation-delay: 0.15s;
+}
+
+.typing-dot:nth-child(3) {
+  animation-delay: 0.3s;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .typing-dot {
+    animation: none;
+    opacity: 0.7;
+  }
+}

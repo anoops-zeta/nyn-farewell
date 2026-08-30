@@ -1,0 +1,332 @@
+{
+  "siteTitle": "Chat | Zeta Teams",
+  "siteDescription": "You have 23 unread messages.",
+  "siteUrl": "https://thanksnyn.com",
+  "ogTitle": "Farewell & Thanks, Narayan",
+  "ogDescription": "A farewell from PayZapp Studio — messages, videos, and photographs from years together.",
+  "ogImage": "/og-image.png",
+  "themeColor": "#2f243f",
+  "nyn": {
+    "id": "narayan-babu",
+    "name": "Narayan Babu",
+    "displayName": "Narayan Babu (You)",
+    "title": "VP, PayZapp Studio",
+    "avatar": null,
+    "initials": "NB",
+    "initialsColor": "purple",
+    "presence": "away",
+    "status": "Out of office — permanently",
+    "links": {
+      "website": "https://nyn.me",
+      "linkedin": "https://linkedin.com/in/nyn"
+    }
+  },
+  "tenant": {
+    "name": "Betterworld Technologies",
+    "shortName": "Betterworld Techn…"
+  },
+  "studio": {
+    "id": "payzapp-studio",
+    "name": "PayZapp Studio",
+    "initialsColor": "red"
+  },
+  "gate": {
+    "enabled": false,
+    "password": ""
+  },
+  "presentation": {
+    "scale": 1.15
+  },
+  "copilot": {
+    "rules": [
+      {
+        "_comment": "Matched in order, first hit wins. Keep the register flat and corporate — the deadpan is the joke, not the punchline.",
+        "patterns": [
+          "pj",
+          "joke",
+          "pun",
+          "funny",
+          "one-liner"
+        ],
+        "response": "Why did the calendar look tired? Its days were numbered.\n\nAI-generated content may be incorrect."
+      },
+      {
+        "patterns": [
+          "design",
+          "figma",
+          "ux",
+          "ui",
+          "typography",
+          "font"
+        ],
+        "response": "He cares deeply about design.\n\nHe once asked a designer to make it pop. He brought a balloon.\n\nAI-generated content may be incorrect."
+      },
+      {
+        "patterns": [
+          "code",
+          "engineer",
+          "programming",
+          "bug",
+          "build",
+          "ship"
+        ],
+        "response": "Why was the computer cold?\n\nIt left its Windows open.\n\nHe uses a Surface. He considers this a compliment.\n\nAI-generated content may be incorrect."
+      },
+      {
+        "patterns": [
+          "payment",
+          "payzapp",
+          "card",
+          "money",
+          "bank",
+          "upi",
+          "transaction"
+        ],
+        "response": "Why did the cheque go to the doctor?\n\nIt kept bouncing.\n\nAI-generated content may be incorrect."
+      },
+      {
+        "patterns": [
+          "another",
+          "one more",
+          "again",
+          "more"
+        ],
+        "response": "I avoid the lift. Too many ups and downs.\n\nAI-generated content may be incorrect."
+      },
+      {
+        "patterns": [
+          "surface",
+          "dell",
+          "mac",
+          "tablet",
+          "laptop"
+        ],
+        "response": "Everyone else picked Dell or Mac. He picked Surface.\n\nHe likes to stay on top of things.\n\nAI-generated content may be incorrect."
+      },
+      {
+        "patterns": [
+          "farm",
+          "farming",
+          "plot",
+          "adas",
+          "car",
+          "triumph",
+          "bike"
+        ],
+        "response": "He has taken up farming.\n\nWhy is the farmer so good at his job? He's outstanding in his field.\n\nAI-generated content may be incorrect."
+      },
+      {
+        "patterns": [
+          "who will run",
+          "who is replacing",
+          "who takes over",
+          "taking over",
+          "replacement",
+          "successor",
+          "after you"
+        ],
+        "response": "Vinay Murthy is filling in.\n\nHe has described this as \"the unenviable task of filling in on your shoes\". I've flagged the phrasing.\n\nAI-generated content may be incorrect."
+      },
+      {
+        "patterns": [
+          "summarise the farewell",
+          "summarize the farewell",
+          "summarise this",
+          "summarize this",
+          "what is this",
+          "what is this site"
+        ],
+        "response": "I've reviewed all 23 conversations.\n\nI'm not able to summarise them. You should read them."
+      },
+      {
+        "patterns": [
+          "narayan",
+          "about me",
+          "who am i",
+          "my tenure",
+          "payzapp studio",
+          "my time"
+        ],
+        "response": "Narayan Babu is VP and head of PayZapp Studio at Betterworld Technologies. Over three years he built the studio, took PayZapp past 10 million users, and started the Thursday Club.\n\nHe is also a licensed amateur radio operator. Call sign VU2NYN.\n\nAI-generated content may be incorrect."
+      },
+      {
+        "patterns": [
+          "thursday club"
+        ],
+        "response": "The Thursday Club met on Thursdays.\n\nAI-generated content may be incorrect."
+      },
+      {
+        "patterns": [
+          "cipher",
+          "synapse",
+          "cc lego"
+        ],
+        "response": "I have the documentation for this. I'm not able to tell you what it says.\n\nApparently that's the whole point of Cipher. He told me that twice."
+      },
+      {
+        "patterns": [
+          "10 million",
+          "10m",
+          "ten million"
+        ],
+        "response": "PayZapp reached 10 million accounts.\n\nHe notes the sweets still ran out in ten minutes."
+      },
+      {
+        "patterns": [
+          "sing",
+          "malare",
+          "karaoke",
+          "song"
+        ],
+        "response": "There is one recorded attempt at singing.\n\nHe stopped while he was on a high note. I have been asked not to retrieve it."
+      },
+      {
+        "patterns": [
+          "leaving",
+          "quit",
+          "resign",
+          "notice period",
+          "last day"
+        ],
+        "response": "His last working day is Friday.\n\nThe ATM quit its job. It lost interest.\n\nAI-generated content may be incorrect."
+      },
+      {
+        "patterns": [
+          "thank",
+          "thanks",
+          "bye",
+          "goodbye"
+        ],
+        "response": "You're welcome.\n\nPlease don't go."
+      }
+    ],
+    "defaultResponse": "I think the messages in the sidebar will do a better job than I will. You should read those.",
+    "suggestions": [
+      "Tell me a PJ",
+      "Tell me about Narayan",
+      "Who's taking over?",
+      "Why a Surface?"
+    ],
+    "moreSuggestions": [
+      "Is he leaving?",
+      "Another one",
+      "What about farming?",
+      "Summarize the farewells"
+    ]
+  },
+  "easterEggs": {
+    "nynPresenceAway": true,
+    "updateGag": true,
+    "recapTab": true,
+    "meetNow": true,
+    "unsend": true,
+    "farewellTab": true,
+    "lockedChannel": true,
+    "gagFiles": true,
+    "idlePrompt": true,
+    "toasts": true,
+    "konami": true
+  },
+  "emptyCopy": {
+    "mentions": "When someone mentions you, it'll show up here",
+    "tagMentions": "When you select a tag mention, it'll show up here",
+    "drafts": "No drafts. For once, you don't have to write the first message.",
+    "discover": "Nothing left to discover here.",
+    "notes": "Untitled",
+    "notesBody": "don't put anything important here",
+    "sharedEmpty": "Nothing shared yet. A very clean empty state. He'd approve."
+  },
+  "schemaVersion": 3,
+  "copy": {
+    "_comment": "Every user-visible string outside the message data. Teams' register is flat and bureaucratic — resist making these clever. The funny ones below are funny because they sound like real product copy.",
+    "updateGag": "Update unavailable. This version of Narayan is final.",
+    "unsend": "Too late.",
+    "idlePrompts": [
+      "you still there?",
+      "typing…",
+      "he's read it. he's just thinking."
+    ],
+    "toasts": [
+      "New message from {name}",
+      "{name} mentioned you",
+      "{name} reacted ❤️ to your message",
+      "You have {count} unread conversations"
+    ],
+    "meetNow": {
+      "preJoinTitle": "PayZapp Studio — farewell",
+      "subtitle": "23 people are waiting",
+      "joinButton": "Join now",
+      "afterJoin": "TODO — plays the group video if you have one. Otherwise leave the tiles frozen and the mic muted; the still image of everyone waiting is funnier than a gag."
+    },
+    "lockedChannel": {
+      "name": "exit-interview",
+      "tooltip": "You don't have access to this channel",
+      "onClick": "You don't have access to this channel. You never did."
+    },
+    "gagFiles": [
+      {
+        "name": "Narayan_Farewell_FINAL_v9_REALLY_FINAL.pptx",
+        "app": "powerpoint",
+        "path": "ZetaOrg > PayZapp Studio > Do Not Open"
+      },
+      {
+        "name": "handover-notes.docx",
+        "app": "word",
+        "path": "ZetaOrg > PayZapp Studio > Everything's In Here I Promise"
+      },
+      {
+        "name": "thursday-club-ideas-that-didnt-ship.xlsx",
+        "app": "excel",
+        "path": "ZetaOrg > PayZapp Studio > Thursday Club"
+      },
+      {
+        "name": "PJs_collected_2022-2026.docx",
+        "app": "word",
+        "path": "personal > arup_saha > evidence"
+      },
+      {
+        "name": "turf-booking-recurring.ics",
+        "app": "generic",
+        "path": "ZetaOrg > EC Office > Bookings"
+      }
+    ],
+    "farewellTab": {
+      "label": "Farewell",
+      "closeTooltip": "This tab can't be closed"
+    },
+    "recap": {
+      "_comment": "Fake AI recap per conversation. Header + one generated-looking summary. The joke is Copilot flattening something heartfelt into bullet points.",
+      "header": "Recap",
+      "subheader": "AI-generated summary of this conversation",
+      "footnote": "AI-generated content may be incorrect.",
+      "template": "{name} sent {count} messages.\n\n• Sentiment: positive\n• Action items: none identified\n• Key themes: {themes}\n\nNo follow-up required.",
+      "themesFallback": "gratitude, leadership, user obsession",
+      "overrides": {
+        "arup-saha": "Arup Saha sent 4 messages.\n\n• Sentiment: positive\n• Action items: none identified\n• Key themes: trust, friendship, an unresolved grievance regarding wordplay\n\nNo follow-up required.",
+        "pj-support-group": "This conversation could not be summarised.\n\n• Sentiment: unclear\n• Action items: 1 (unspecified)\n• Key themes: —\n\nI have flagged this thread for review."
+      }
+    },
+    "search": {
+      "_comment": "When he searches his own name — which he will — this appears above the results.",
+      "selfSearchBanner": "23 conversations mention Narayan Babu.",
+      "noResults": "No results. Try searching for someone who's still here."
+    },
+    "presenceCard": {
+      "status": "Out of office — permanently",
+      "localTime": "Local time — {time}",
+      "outOfOfficeNote": "Narayan Babu is out of office and may not respond"
+    },
+    "konami": "TODO — every avatar in the sidebar becomes his face. No text needed.",
+    "notFound": {
+      "title": "We couldn't find that conversation",
+      "body": "It may have been deleted, or you may not have access.",
+      "action": "Back to Chat"
+    },
+    "farewellPane": {
+      "_comment": "Content of the un-closeable Farewell tab. The only place on the site that drops the bit.",
+      "heading": "Thanks, Narayan.",
+      "body": "23 conversations. 9 written messages. 8 video messages. Three years of photographs.\n\nEverything here is real except the app it's sitting in.",
+      "signoff": "— PayZapp Studio"
+    }
+  }
+}

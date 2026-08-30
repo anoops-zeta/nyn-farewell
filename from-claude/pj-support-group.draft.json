@@ -1,0 +1,715 @@
+{
+  "id": "pj-support-group",
+  "name": "PJ Support Group",
+  "title": null,
+  "kind": "group",
+  "initialsColor": "yellow",
+  "presence": null,
+  "section": "chats",
+  "order": 23,
+  "unread": true,
+  "pinnedMessage": {
+    "author": "Narayan Babu",
+    "text": "House rules: one PJ per person per day. Groans count as applause.",
+    "date": "TODO"
+  },
+  "notice": null,
+  "thread": [
+    {
+      "type": "system",
+      "value": "Narayan Babu created this chat"
+    },
+    {
+      "type": "system",
+      "value": "Narayan Babu named the group PJ Support Group"
+    },
+    {
+      "type": "date",
+      "value": "TODO"
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Starting this so I stop doing it in reviews."
+        },
+        {
+          "kind": "text",
+          "value": "House rules: one a day. Groans count as applause."
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "This is a support group for us, not for you."
+        }
+      ],
+      "sender": "Arup Saha",
+      "senderColor": "blue",
+      "reactions": [
+        "😂",
+        "😂"
+      ]
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Same thing."
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "I'll go first. Why did the calendar look tired?"
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "no"
+        }
+      ],
+      "sender": "Manivel Ramasamy",
+      "senderColor": "green"
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Its days were numbered."
+        }
+      ],
+      "reactions": [
+        "🥴",
+        "🥴",
+        "😂"
+      ]
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "it's quarter end. that's the worst possible week for this"
+        }
+      ],
+      "sender": "Manivel Ramasamy",
+      "senderColor": "green"
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "That's why it works."
+        }
+      ]
+    },
+    {
+      "type": "date",
+      "value": "TODO"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Alright. Mine. Why is the farmer so good at his job?"
+        }
+      ],
+      "sender": "Arup Saha",
+      "senderColor": "blue"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "He's outstanding in his field."
+        }
+      ],
+      "sender": "Arup Saha",
+      "senderColor": "blue",
+      "reactions": [
+        "🥴",
+        "😂"
+      ]
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Solid. Old, but solid. 7."
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "you're rating them now"
+        }
+      ],
+      "sender": "Arup Saha",
+      "senderColor": "blue"
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Someone has to."
+        }
+      ]
+    },
+    {
+      "type": "date",
+      "value": "TODO"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "I asked him to make the card screen pop."
+        }
+      ],
+      "sender": "Prishita Jain",
+      "senderColor": "purple"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "He brought a balloon to the review."
+        }
+      ],
+      "sender": "Prishita Jain",
+      "senderColor": "purple",
+      "reactions": [
+        "😂"
+      ]
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "It popped."
+        }
+      ],
+      "reactions": [
+        "🥴",
+        "😂",
+        "😂"
+      ]
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "I laughed. In the review. In front of everyone."
+        }
+      ],
+      "sender": "Konetisetty Sai Krishna",
+      "senderColor": "blue"
+    },
+    {
+      "type": "date",
+      "value": "TODO"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Can I submit one late? I only got yesterday's just now."
+        }
+      ],
+      "sender": "Maggie",
+      "senderColor": "pink"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "I was in the lift."
+        }
+      ],
+      "sender": "Maggie",
+      "senderColor": "pink"
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Ah. \"I avoid the lift. Too many ups and downs.\""
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "...that's the one. It took me eleven hours."
+        }
+      ],
+      "sender": "Maggie",
+      "senderColor": "pink",
+      "reactions": [
+        "😂",
+        "🥴"
+      ]
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "That's the trick with his. They always land late."
+        }
+      ],
+      "sender": "Arup Saha",
+      "senderColor": "blue",
+      "reactions": [
+        "❤️"
+      ]
+    },
+    {
+      "type": "date",
+      "value": "TODO"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Submitting one. Why did the cheque go to the doctor?"
+        }
+      ],
+      "sender": "Divyansh Joshi",
+      "senderColor": "blue"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "It kept bouncing."
+        }
+      ],
+      "sender": "Divyansh Joshi",
+      "senderColor": "blue",
+      "reactions": [
+        "🥴",
+        "😂"
+      ]
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Good. 8. You've been paying attention."
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "I learned from the best"
+        }
+      ],
+      "sender": "Divyansh Joshi",
+      "senderColor": "blue"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "He learned from the worst. Same person."
+        }
+      ],
+      "sender": "Arup Saha",
+      "senderColor": "blue",
+      "reactions": [
+        "😂",
+        "😂"
+      ]
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Mine. Why was the computer cold?"
+        }
+      ],
+      "sender": "Rahul Mahale",
+      "senderColor": "green"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "It left its Windows open."
+        }
+      ],
+      "sender": "Rahul Mahale",
+      "senderColor": "green"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "that one's for Narayan specifically"
+        }
+      ],
+      "sender": "Manivel Ramasamy",
+      "senderColor": "green",
+      "reactions": [
+        "😂"
+      ]
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Surface stays."
+        }
+      ],
+      "reactions": [
+        "🥴",
+        "😂",
+        "😂"
+      ]
+    },
+    {
+      "type": "date",
+      "value": "TODO"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Asked the intern to fix the bug this morning."
+        }
+      ],
+      "sender": "Konetisetty Sai Krishna",
+      "senderColor": "blue"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "He came back with a spray."
+        }
+      ],
+      "sender": "Konetisetty Sai Krishna",
+      "senderColor": "blue",
+      "reactions": [
+        "😂",
+        "🥴"
+      ]
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "That's not yours. That happened."
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Both can be true"
+        }
+      ],
+      "sender": "Konetisetty Sai Krishna",
+      "senderColor": "blue"
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "6. Points off for honesty."
+        }
+      ],
+      "reactions": [
+        "😂"
+      ]
+    },
+    {
+      "type": "date",
+      "value": "TODO"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "I've worked out the actual pattern. He doesn't tell them at random."
+        }
+      ],
+      "sender": "Vinay M",
+      "senderColor": "blue"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Plutus staff meeting. Room's tense, someone's about to say something they can't take back. That's when it comes."
+        }
+      ],
+      "sender": "Vinay M",
+      "senderColor": "blue",
+      "reactions": [
+        "👏",
+        "❤️"
+      ]
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "I asked him once why he does it mid-review."
+        }
+      ],
+      "sender": "Manoj Machiraju",
+      "senderColor": "blue"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "He said someone has to break the ice. The AC is already on."
+        }
+      ],
+      "sender": "Manoj Machiraju",
+      "senderColor": "blue",
+      "reactions": [
+        "😂",
+        "🥴",
+        "🥴"
+      ]
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "...he's been defusing us. For three years."
+        }
+      ],
+      "sender": "Arup Saha",
+      "senderColor": "blue"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "With PJs. Yes."
+        }
+      ],
+      "sender": "Vinay M",
+      "senderColor": "blue",
+      "reactions": [
+        "❤️",
+        "😂"
+      ]
+    },
+    {
+      "type": "date",
+      "value": "Today"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Last one before Friday. Floor's yours."
+        }
+      ],
+      "sender": "Arup Saha",
+      "senderColor": "blue"
+    },
+    {
+      "type": "unlock",
+      "suggestions": [
+        "The ATM quit its job. It lost interest.",
+        "I wanted to leave on a high note. So I took the stairs.",
+        "You go. I've retired."
+      ]
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "Of course you had one ready."
+        }
+      ],
+      "sender": "Arup Saha",
+      "senderColor": "blue",
+      "reactions": [
+        "😂"
+      ]
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "For the record — I told everyone the PJs are the one thing I won't miss."
+        }
+      ],
+      "sender": "Arup Saha",
+      "senderColor": "blue"
+    },
+    {
+      "type": "message",
+      "from": "them",
+      "time": "TODO",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "I've thought about it. I was lying."
+        }
+      ],
+      "sender": "Arup Saha",
+      "senderColor": "blue",
+      "reactions": [
+        "❤️",
+        "❤️",
+        "❤️"
+      ]
+    }
+  ]
+}

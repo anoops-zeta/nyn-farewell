@@ -1,0 +1,57 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+  theme: {
+    extend: {
+      colors: {
+        chrome: "var(--window-chrome)",
+        topbar: "var(--topbar)",
+        "search-pill": "var(--search-pill)",
+        surface: "var(--surface)",
+        sidebar: "var(--sidebar)",
+        "row-selected": "var(--row-selected)",
+        "row-hover": "var(--row-hover)",
+        "bubble-in": "var(--bubble-in)",
+        "bubble-out": "var(--bubble-out)",
+        card: "var(--card)",
+        divider: "var(--divider)",
+        "text-primary": "var(--text-primary)",
+        "text-secondary": "var(--text-secondary)",
+        accent: "var(--accent)",
+        "brand-btn": "var(--brand-btn)",
+        mention: "var(--mention)",
+        "notice-bg": "var(--notice-bg)",
+        "presence-available": "var(--presence-available)",
+        "presence-away": "var(--presence-away)",
+        "presence-busy": "var(--presence-busy)",
+        "presence-ooo": "var(--presence-ooo)",
+        "presence-offline": "var(--presence-offline)",
+        badge: "var(--badge)",
+        compose: "var(--compose)",
+        pinned: "var(--pinned)",
+      },
+      fontFamily: {
+        teams: [
+          "Segoe UI",
+          "-apple-system",
+          "BlinkMacSystemFont",
+          "system-ui",
+          "Helvetica Neue",
+          "sans-serif",
+        ],
+      },
+      fontSize: {
+        "panel-title": ["22px", { lineHeight: "28px", fontWeight: "600" }],
+        "chat-name": ["20px", { lineHeight: "24px", fontWeight: "600" }],
+        "row-name": ["15px", { lineHeight: "20px" }],
+        "msg-body": ["15px", { lineHeight: "22px", fontWeight: "400" }],
+        meta: ["13px", { lineHeight: "16px", fontWeight: "400" }],
+        section: ["14px", { lineHeight: "20px", fontWeight: "400" }],
+      },
+      boxShadow: {
+        window: "0 0 0 1px rgba(255,255,255,0.04)",
+      },
+    },
+  },
+  plugins: [],
+};

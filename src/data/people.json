@@ -1,0 +1,3307 @@
+[
+  {
+    "id": "shivangi-tyagi",
+    "name": "Shivangi Tyagi",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "pink",
+    "presence": "available",
+    "section": "chats",
+    "order": 1,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "9:14 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Narayan, you're truly a tech wiz"
+          },
+          {
+            "kind": "text",
+            "value": "I've always admired the way you've built and led the Plutus and now PayZapp teams."
+          },
+          {
+            "kind": "text",
+            "value": "Your clarity of thought and the conviction in your beliefs — those stood out every single time."
+          }
+        ],
+        "mentionsNyn": false
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Thank you Shivangi 🙏",
+          "Plutus feels like a lifetime ago",
+          "You're being too kind"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "9:16 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Zeta will undoubtedly be a poorer place without you."
+          },
+          {
+            "kind": "text",
+            "value": "Wishing you the very best for all that lies ahead!"
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "payzapp-studio",
+    "name": "PayZapp Studio",
+    "title": "Team",
+    "kind": "group",
+    "initialsColor": "red",
+    "presence": null,
+    "section": "favourites",
+    "order": 2,
+    "unread": true,
+    "notice": "Narayan Babu is out of office and may not respond",
+    "thread": [
+      {
+        "type": "date",
+        "value": "23 January 2023"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:52 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/img-20230123-155222.jpg"
+          }
+        ],
+        "sender": "Anoop Sethumadhavan",
+        "senderColor": "purple"
+      },
+      {
+        "type": "date",
+        "value": "9 March 2023"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:00 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/img-20230309-wa0036.jpg",
+            "caption": "Outstanding and Stellar Awards 2022"
+          }
+        ],
+        "sender": "Jim Kim",
+        "senderColor": "yellow"
+      },
+      {
+        "type": "date",
+        "value": "5 April 2024"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:20 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/img-20240405-202026.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "/media/web/img-20240405-202450.jpg"
+          }
+        ],
+        "sender": "Vikram Bhati",
+        "senderColor": "pink"
+      },
+      {
+        "type": "date",
+        "value": "6 April 2024"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "9:34 am",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/img-20240406-093423.jpg",
+            "caption": "Flat tyre on the offsite. Spare's out, team's on it."
+          }
+        ],
+        "sender": "Ganesh R",
+        "senderColor": "blue"
+      },
+      {
+        "type": "date",
+        "value": "17 December 2024"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:53 am",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/img-20241217-115333.jpg",
+            "caption": "PayZapp town hall. Full house, hands up, hybrid as usual."
+          }
+        ],
+        "sender": "Saransh Sharma",
+        "senderColor": "green"
+      },
+      {
+        "type": "date",
+        "value": "27 February 2025"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "10:32 am",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/ec-office-turf.jpg"
+          }
+        ],
+        "reactions": [
+          "❤️",
+          "❤️",
+          "❤️",
+          "❤️",
+          "❤️",
+          "❤️",
+          "❤️",
+          "❤️",
+          "👏",
+          "👏",
+          "👏",
+          "😮"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "10:32 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "New EC office. Football turf and cricket turf 🫡"
+          }
+        ],
+        "reactions": [
+          "❤️",
+          "❤️",
+          "❤️",
+          "😮",
+          "😮"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "10:41 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Morning run route sorted. Can't wait to try the football turf after gym."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Jayant Jaiswal",
+        "senderColor": "red",
+        "time": "2:07 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi @Everyone, Ramki's session is starting now, requesting all to pls join in Audi. Thank you"
+          }
+        ]
+      },
+      {
+        "type": "date",
+        "value": "18 March 2025"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Jim Kim",
+        "senderColor": "yellow",
+        "time": "4:15 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi @Everyone, FYI pls – **Q1 Studio Review** is scheduled for **Friday, 21 March** from **3:00 PM to 4:00 PM** in **DD Auditorium**.\n\nRequest you to block your calendars. Thank you"
+          }
+        ],
+        "reactions": [
+          "👍",
+          "👍"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "4:18 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Blocking it."
+          },
+          {
+            "kind": "text",
+            "value": "Why did the calendar look tired? Its days were numbered."
+          }
+        ],
+        "reactions": [
+          "🥴",
+          "😂"
+        ]
+      },
+      {
+        "type": "date",
+        "value": "26 March 2025"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Saransh Sharma",
+        "senderColor": "green",
+        "time": "12:23 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "@Everyone, sweets & snacks in design bay. Please feel free to hop by."
+          }
+        ],
+        "reactions": [
+          "🙏",
+          "🙏",
+          "🙏"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "12:28 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "On my way. Reviewed the new card screen first — told them to make it pop."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "12:29 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "He brought a balloon to the review."
+          }
+        ],
+        "sender": "Prishita Jain",
+        "senderColor": "purple",
+        "reactions": [
+          "😂",
+          "🥴"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "12:30 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "It popped."
+          }
+        ],
+        "reactions": [
+          "😂",
+          "😂",
+          "🥴"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "12:31 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hopping over for the sweets. Why did the samosa join the gym? To get more filling."
+          }
+        ],
+        "reactions": [
+          "🥴",
+          "😂"
+        ]
+      },
+      {
+        "type": "date",
+        "value": "28 July 2025"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Vikram Bhati",
+        "senderColor": "pink",
+        "time": "5:40 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi @Everyone, FYI pls – We have the **PayZapp A&B Felicitation** followed by the **Townhall** tomorrow from **2:30 PM to 3:45 PM**. Request you to plan your day accordingly.\n\nKindly join in-person from **DD Auditorium**. Thank you"
+          }
+        ],
+        "reactions": [
+          "👍"
+        ]
+      },
+      {
+        "type": "date",
+        "value": "29 July 2025"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Ganesh R",
+        "senderColor": "blue",
+        "time": "2:28 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi @Everyone, Townhall starting now in **DD Audi**. Requesting all to pls join. Thank you"
+          }
+        ]
+      },
+      {
+        "type": "date",
+        "value": "15 October 2025"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Jayant Jaiswal",
+        "senderColor": "red",
+        "time": "11:05 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi @Everyone, FYI – **Ethnic Day** tomorrow. Request you to come in traditional wear.\n\nGroup photo at the bay around **1:15 PM**. Thank you"
+          }
+        ],
+        "reactions": [
+          "👍",
+          "❤️"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "11:08 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Traditional wear it is."
+          },
+          {
+            "kind": "text",
+            "value": "Everyone else picked Dell or Mac. I picked Surface. I like to stay on top of things."
+          }
+        ],
+        "reactions": [
+          "🥴",
+          "😂"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:09 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Narayan that wasn't even related to ethnic day"
+          }
+        ],
+        "sender": "Jim Kim",
+        "senderColor": "yellow"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "11:10 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I know. I'd been saving it."
+          }
+        ],
+        "reactions": [
+          "😂",
+          "😂"
+        ]
+      },
+      {
+        "type": "date",
+        "value": "16 October 2025"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "1:17 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/img-20251016-131702.jpg",
+            "caption": "Ethnic Day at PayZapp. Kurtas, sarees, veshtis — Narayan in white kurta and dhoti."
+          }
+        ],
+        "sender": "Abhishek Nair",
+        "senderColor": "pink"
+      },
+      {
+        "type": "date",
+        "value": "8 January 2026"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "2:31 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Walking over. See you all in DD Audi. Might live-debug the deck from the front row again."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Saransh Sharma",
+        "senderColor": "green",
+        "time": "3:05 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi @Everyone, FYI pls – **A&B award felicitation** on **10 January** from **4:00 PM to 5:00 PM** at **DD Auditorium**.\n\nRequest you to plan accordingly. Thank you"
+          }
+        ],
+        "reactions": [
+          "❤️",
+          "👍"
+        ]
+      },
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "1:22 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Good crowd today. Someone asked if I'd sing at the next offsite. I didn't say no."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Bharathi Shekar",
+        "senderColor": "blue",
+        "time": "4:50 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi @Everyone, FYI pls – **PayZapp 10 million** celebration in the studio bay from **5:15 PM**. Request you to join.\n\nSweets will be around. Thank you"
+          }
+        ],
+        "reactions": [
+          "🎉",
+          "❤️",
+          "👍"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "4:52 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Ten million accounts."
+          },
+          {
+            "kind": "text",
+            "value": "And the sweets still ran out in ten minutes."
+          }
+        ],
+        "reactions": [
+          "❤️",
+          "🎉",
+          "🥴"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "5:26 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/pz-10m-celebration.jpg",
+            "caption": "PayZapp 10 million — the big one. Balloons, banners, the whole studio in one room celebrating a number we'd been chasing for months."
+          },
+          {
+            "kind": "image",
+            "src": "/media/web/hdfc-zeta-04.jpg",
+            "caption": "HDFC × Zeta"
+          },
+          {
+            "kind": "image",
+            "src": "/media/web/hdfc-zeta-18.jpg",
+            "caption": "HDFC × Zeta"
+          }
+        ],
+        "sender": "Anoop Sethumadhavan",
+        "senderColor": "purple"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "5:28 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/shared-image-9.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "/media/web/ac13d1fca98599f5243eb7c37303611db14a15e54914ffaee4c3fb6ff6deabc6-0.jpg"
+          }
+        ],
+        "sender": "Vikram Bhati",
+        "senderColor": "pink"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Anoop Sethumadhavan",
+        "senderColor": "purple",
+        "time": "5:42 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "@Everyone, leftover sweets & snacks still in design bay. Please feel free to hop by."
+          }
+        ],
+        "reactions": [
+          "🙏",
+          "🙏"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "naveen-jahagirdar",
+    "name": "Naveen Jahagirdar",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "green",
+    "presence": "available",
+    "section": "chats",
+    "order": 3,
+    "unread": true,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "9:31 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "You're one of the best leaders I've had the opportunity to work with."
+          },
+          {
+            "kind": "text",
+            "value": "Always approachable, extending support wherever it was needed — and you challenged the team to learn and grow beyond the comfort zone."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "That means a lot 🙏",
+          "The comfort zone was never the plan",
+          "Thank you Naveen"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "9:33 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "You always believed in the team and appreciated them. Never let a win go unrecognised."
+          },
+          {
+            "kind": "text",
+            "value": "Wishing you nothing but continued success, Narayan — you'll be missed."
+          }
+        ],
+        "reactions": [
+          "🙏"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thursday-club",
+    "name": "Thursday Club",
+    "title": "Group chat",
+    "kind": "group",
+    "initialsColor": "purple",
+    "presence": null,
+    "section": "chats",
+    "order": 4,
+    "unread": true,
+    "pinnedMessage": {
+      "author": "Narayan Babu",
+      "text": "Why Thursday? Because Wednesday was too weak.",
+      "date": "14/11/24"
+    },
+    "notice": "This chat has been quiet since Narayan left",
+    "thread": [
+      {
+        "type": "system",
+        "value": "Narayan Babu created this chat"
+      },
+      {
+        "type": "date",
+        "value": "14 November 2024"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "9:40 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Starting something. Every Thursday. One day, one thing, ship it or bin it."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "9:41 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Why Thursday?"
+          }
+        ],
+        "sender": "Manivel Ramasamy",
+        "senderColor": "green"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "9:42 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Because Wednesday was too weak."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "9:43 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I'm going to regret joining this"
+          }
+        ],
+        "sender": "Manivel Ramasamy",
+        "senderColor": "green",
+        "reactions": [
+          "😂",
+          "🥴",
+          "🥴"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "9:44 am",
+        "sender": "Jim Kim",
+        "senderColor": "yellow",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I'm in. Against my better judgement."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:07 am",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/img-20241114-110745.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "/media/web/img-20241114-110751.jpg"
+          }
+        ],
+        "sender": "Anoop Sethumadhavan",
+        "senderColor": "purple"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:31 am",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/img-20241114-113133.jpg"
+          }
+        ],
+        "sender": "Vikram Bhati",
+        "senderColor": "pink"
+      },
+      {
+        "type": "date",
+        "value": "March 2025"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:18 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Zapp Account shipped. Bank came back happy."
+          }
+        ],
+        "sender": "Manoj Machiraju",
+        "senderColor": "blue",
+        "reactions": [
+          "🎉",
+          "👏",
+          "❤️"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "4:19 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "One day. Told you."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:21 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Are you actually going to finish this one or is it another Thursday graveyard entry"
+          }
+        ],
+        "sender": "Arup Saha",
+        "senderColor": "blue"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "4:22 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Why did the calendar look tired?"
+          },
+          {
+            "kind": "text",
+            "value": "Its days were numbered."
+          }
+        ],
+        "reactions": [
+          "🥴",
+          "😂",
+          "😂"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:23 pm",
+        "sender": "Saransh Sharma",
+        "senderColor": "green",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "That's going in the notes."
+          }
+        ],
+        "reactions": [
+          "😂"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "konetisetty-sai-krishna",
+    "name": "Konetisetty Sai Krishna",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "blue",
+    "presence": "available",
+    "section": "chats",
+    "order": 5,
+    "unread": true,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:02 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi Narayan,"
+          },
+          {
+            "kind": "text",
+            "value": "It has been a pleasure working under your leadership. Thank you for all the invaluable lessons, guidance and support throughout the journey."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Thank you 🙏",
+          "The Figma reviews were the fun part",
+          "All the best to you too"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:04 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Your insights during the product and Figma walkthroughs always challenged us to think differently and push beyond the obvious."
+          },
+          {
+            "kind": "text",
+            "value": "Zeta and PayZapp will truly miss such a talented, versatile and inspiring leader!"
+          },
+          {
+            "kind": "text",
+            "value": "Wishing you all the very best for what's ahead. 🙌"
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maggie",
+    "name": "Margaret D'souza",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "yellow",
+    "presence": "available",
+    "section": "chats",
+    "order": 6,
+    "unread": true,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "1:48 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi Narayan, I know we got to overlap for a brief period at Zeta. But it was a pleasure working with you during that time."
+          },
+          {
+            "kind": "text",
+            "value": "What I really admired is the leadership style you brought — you had a very distinctive and a very different style. I really loved the way you stood up for your point of view when you had reservations, stood up for what was right, and most importantly the way you cared so deeply for your team — their development, their growth, their engagement."
+          },
+          {
+            "kind": "text",
+            "value": "Most of all, I will definitely remember your one-liners. I must admit I had many lightbulb moments where it struck me really late and I felt really dumb about it — but I think that's the one thing I'm going to remember more than everything."
+          },
+          {
+            "kind": "text",
+            "value": "All the best for the next chapter of your life. At least I'm privy to the why behind settling down in your next adventure. Very proud of the step you're taking, so all the best."
+          },
+          {
+            "kind": "video",
+            "src": "/media/videos/maggie.mp4",
+            "poster": "/media/videos/posters/maggie.jpg",
+            "placeholder": false,
+            "transcript": "Hi Narayan, I know we got to overlap for a brief period at Zeta. But it was a pleasure working with you during that time.\n\nWhat I really admired is the leadership style you brought — you had a very distinctive and a very different style. I really loved the way you stood up for your point of view when you had reservations, stood up for what was right, and most importantly the way you cared so deeply for your team — their development, their growth, their engagement.\n\nMost of all, I will definitely remember your one-liners. I must admit I had many lightbulb moments where it struck me really late and I felt really dumb about it — but I think that's the one thing I'm going to remember more than everything.\n\nAll the best for the next chapter of your life. At least I'm privy to the why behind settling down in your next adventure. Very proud of the step you're taking, so all the best."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prishita-jain",
+    "name": "Prishita Jain",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "purple",
+    "presence": "available",
+    "section": "chats",
+    "order": 7,
+    "unread": true,
+    "pinnedMessage": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:20 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hey Narayan, it was a pleasure working with you at Zeta."
+          },
+          {
+            "kind": "text",
+            "value": "Every time there was a discussion, I always looked forward to your feedback and perspective."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "🙏",
+          "I only ever came to the design bay to procrastinate",
+          "Thank you Prishita"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:22 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Whenever you came into our design bay with something new you'd been building, it was always exciting to see. Honestly, it motivated me."
+          },
+          {
+            "kind": "text",
+            "value": "Thank you for always supporting and championing design."
+          },
+          {
+            "kind": "text",
+            "value": "Would love to work with you again in future. Wishing you all the very best for what's next!"
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "harsheet",
+    "name": "Harsheet R",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "yellow",
+    "presence": "available",
+    "section": "chats",
+    "order": 8,
+    "unread": true,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "5:05 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/harsheet-photo.jpg",
+            "caption": "Outstanding 2026"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "divyansh-joshi",
+    "name": "Divyansh Joshi",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "yellow",
+    "presence": "away",
+    "section": "chats",
+    "order": 9,
+    "unread": true,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:05 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hey Narayan! Had a great time working with you."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Likewise Divyansh 🙌",
+          "Stay in touch",
+          "User obsessed or nothing"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:06 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "The lessons I learned from you about always being user obsessed, and not thinking about anything else, are ones I'll keep with me for a lifetime."
+          },
+          {
+            "kind": "text",
+            "value": "Wish you all the very best for your next phase — and hope to stay in touch!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "offsite-25",
+    "name": "Offsite '25",
+    "title": "Group chat · PZ Studio · Zappuccino",
+    "kind": "group",
+    "initialsColor": "blue",
+    "presence": null,
+    "section": "chats",
+    "order": 10,
+    "unread": true,
+    "thread": [
+      {
+        "type": "system",
+        "value": "PayZapp Studio — offsite '25, zappuccino"
+      },
+      {
+        "type": "date",
+        "value": "Offsite '25"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:14 am",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/dsc5806.jpg"
+          }
+        ],
+        "sender": "Jim Kim",
+        "senderColor": "yellow"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:22 am",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/dsc5820.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "/media/web/dsc5846.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "/media/web/dsc5921.jpg"
+          }
+        ],
+        "sender": "Saransh Sharma",
+        "senderColor": "green"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:40 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/dsc5949.jpg",
+            "caption": "The Filmy Night · Offsite '25"
+          }
+        ],
+        "sender": "Jayant Jaiswal",
+        "senderColor": "red"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:55 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/dsc6040.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "/media/web/dsc6042.jpg"
+          }
+        ],
+        "sender": "Vikram Bhati",
+        "senderColor": "pink"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "9:10 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/dsc6214.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "/media/web/dsc6217.jpg"
+          }
+        ],
+        "sender": "Ganesh R",
+        "senderColor": "blue"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "9:18 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/dsc6236.jpg",
+            "caption": "PZ Studio · Chhota Zappuccino"
+          }
+        ],
+        "sender": "Abhishek Nair",
+        "senderColor": "pink"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "9:26 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/dsc6290.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "/media/web/dsc6295.jpg",
+            "caption": "The Filmy Night"
+          },
+          {
+            "kind": "image",
+            "src": "/media/web/dsc6296.jpg",
+            "caption": "The Filmy Night · Offsite '25"
+          }
+        ],
+        "sender": "Bharathi Shekar",
+        "senderColor": "blue"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "9:40 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "One more song! One more!"
+          }
+        ],
+        "sender": "H Varun",
+        "senderColor": "red",
+        "reactions": [
+          "🎤"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "9:41 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Fine. But I'll need a re-verse."
+          }
+        ],
+        "reactions": [
+          "🥴",
+          "😂",
+          "😂"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "9:42 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "and there it is"
+          }
+        ],
+        "sender": "Manivel Ramasamy",
+        "senderColor": "green"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "9:43 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Someone tell Narayan the Figma file has 40 unresolved comments"
+          }
+        ],
+        "sender": "Anoop Sethumadhavan",
+        "senderColor": "purple"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "9:44 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Narayan one more song!!"
+          }
+        ],
+        "sender": "Konetisetty Sai Krishna",
+        "senderColor": "blue"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "9:45 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Fine, one more. But I'm stopping while I'm on a high note."
+          }
+        ],
+        "reactions": [
+          "🥴",
+          "🥴",
+          "😂"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rahul-mahale",
+    "name": "Rahul Mahale",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "red",
+    "presence": "busy",
+    "section": "chats",
+    "order": 11,
+    "unread": true,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:40 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "It has been great working with you."
+          },
+          {
+            "kind": "text",
+            "value": "In all the product conversations — cards, semi, all of it — the thing that always stood out was how deeply you thought about the user problem and the interactions."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "🙏",
+          "The interactions were the whole point",
+          "Thanks Rahul"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:43 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I envied the way you challenged ideas, asked the right questions, and pushed teams to think beyond the obvious."
+          },
+          {
+            "kind": "text",
+            "value": "Many times I'd catch myself thinking \"what will Narayan think?\" — especially on product and design questions. Putting on that hat always brought the user back to the centre."
+          },
+          {
+            "kind": "text",
+            "value": "I only wish I got to spend more time learning from you."
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gff-war-room",
+    "name": "GFF War Room",
+    "title": "Group chat · Launch",
+    "kind": "group",
+    "initialsColor": "red",
+    "presence": null,
+    "section": "chats",
+    "order": 12,
+    "unread": true,
+    "thread": [
+      {
+        "type": "system",
+        "value": "PayZapp Studio added everyone to this chat"
+      },
+      {
+        "type": "date",
+        "value": "September 2024"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Rahul Mahale",
+        "senderColor": "red",
+        "time": "9:02 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "@Everyone — GFF dry run at **3 PM** today. War room on the **4th floor**. Please be on time."
+          }
+        ],
+        "reactions": [
+          "👍",
+          "👍",
+          "👍"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "9:08 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I'll be there. Let's run the live demo on the projector — no slides-only walkthrough."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Divyansh Joshi",
+        "senderColor": "yellow",
+        "time": "2:55 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Room's set up. Projector tested. We're good."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:56 pm",
+        "sender": "Ganesh R",
+        "senderColor": "blue",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Backup laptop is on the table. Clicker's with me."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:58 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Demo just crashed on the card flow. 20 minutes out."
+          }
+        ],
+        "sender": "Divyansh Joshi",
+        "senderColor": "yellow",
+        "reactions": [
+          "😰"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:59 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Do we fall back to slides"
+          }
+        ],
+        "sender": "Jayant Jaiswal",
+        "senderColor": "red"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "3:00 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "No."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "3:00 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Nobody panic."
+          },
+          {
+            "kind": "text",
+            "value": "Why did the demo stop working? It saw the audience."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:01 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "..."
+          }
+        ],
+        "sender": "Jim Kim",
+        "senderColor": "yellow"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:02 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I hate that I laughed"
+          }
+        ],
+        "sender": "Divyansh Joshi",
+        "senderColor": "yellow",
+        "reactions": [
+          "😂",
+          "🥴"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:14 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Fixed it. We're live."
+          }
+        ],
+        "sender": "Rahul Mahale",
+        "senderColor": "red",
+        "reactions": [
+          "🎉",
+          "👏"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:16 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Post-demo, we'll collect feedback from the floor."
+          }
+        ],
+        "sender": "Rahul Mahale",
+        "senderColor": "red"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "3:17 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Last time I asked for feedback the mic gave it to me."
+          }
+        ],
+        "reactions": [
+          "😂",
+          "🥴"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:18 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "please just present"
+          }
+        ],
+        "sender": "Divyansh Joshi",
+        "senderColor": "yellow"
+      }
+    ]
+  },
+  {
+    "id": "vinay-m",
+    "name": "Vinay Murthy",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "green",
+    "presence": "available",
+    "section": "chats",
+    "order": 13,
+    "unread": true,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:18 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi Narayan, wishing you all the best in whatever else you do in the near future. I want to start off with that sentence because there's less of the past that we've shared — but whatever we've shared, I've had a great experience around it."
+          },
+          {
+            "kind": "text",
+            "value": "I still remember those days when I used to be in larger staff meetings on Plutus, and just when the moment was getting a little too serious you used to crack a PJ — and thank you for all of those, because that used to burst out all the stress in the system. Please continue to do that."
+          },
+          {
+            "kind": "text",
+            "value": "Love the way you are able to manage multiple things and at the same time be diligent in whatever you're doing. I found it particularly impressive that you were fully committed in helping me get onboarded through the different stages of our overlap — especially when I had the unenviable task of filling in your shoes."
+          },
+          {
+            "kind": "text",
+            "value": "Thank you for all the support you've given, and again, best wishes for a wonderful future."
+          },
+          {
+            "kind": "video",
+            "src": "/media/videos/vinay-m.mp4",
+            "poster": "/media/videos/posters/vinay-m.jpg",
+            "placeholder": false,
+            "transcript": "Hi Narayan, wishing you all the best in whatever else you do in the near future. I want to start off with that sentence because there's less of the past that we've shared — but whatever we've shared, I've had a great experience around it.\n\nI still remember those days when I used to be in larger staff meetings on Plutus, and just when the moment was getting a little too serious you used to crack a PJ — and thank you for all of those, because that used to burst out all the stress in the system. Please continue to do that.\n\nLove the way you are able to manage multiple things and at the same time be diligent in whatever you're doing. I found it particularly impressive that you were fully committed in helping me get onboarded through the different stages of our overlap — especially when I had the unenviable task of filling in your shoes.\n\nThank you for all the support you've given, and again, best wishes for a wonderful future."
+          }
+        ]
+      }
+    ],
+    "notice": "Vinay Murthy is filling in and may not respond"
+  },
+  {
+    "id": "manivel-ramasamy",
+    "name": "Manivel Ramasamy",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "green",
+    "presence": "available",
+    "section": "chats",
+    "order": 14,
+    "unread": true,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "12:15 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Wishing you all the very best for the next adventure! 🚀"
+          },
+          {
+            "kind": "text",
+            "value": "Thanks for all the experiences, discussions, tech debates — and of course, the Thursday Club. A great excuse to get together, experiment with new ideas, and challenge the status quo."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Thursday Club forever",
+          "🙏",
+          "I'm still going to break things"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "12:18 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Keep breaking new ground and bringing that energy wherever you go."
+          },
+          {
+            "kind": "text",
+            "value": "Keep coding, challenging, and building things."
+          },
+          {
+            "kind": "text",
+            "value": "May Sriman Naaraayanaa bless you with everything ahead. Stay healthy, hungry and awesome!"
+          }
+        ],
+        "reactions": [
+          "😂"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h-varun",
+    "name": "H Varun",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "red",
+    "presence": "available",
+    "section": "chats",
+    "order": 15,
+    "unread": true,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today",
+        "blocks": []
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:51 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi Narayan, like before you go, these lines are for you."
+          },
+          {
+            "kind": "text",
+            "value": "_(sings)_"
+          },
+          {
+            "kind": "text",
+            "value": "Narayan, I have always been a silent admirer of yours. Your way of thinking, your demos, the way you presented yourself at Tech Conclave — there was always something to learn from you."
+          },
+          {
+            "kind": "text",
+            "value": "And I really admire how you made things beyond work too — fitness, singing, cars, interested in farming. My interactions with you over these last two years have been limited, but honestly they have been really inspiring."
+          },
+          {
+            "kind": "text",
+            "value": "Thank you for being an inspiration, and we'll really miss you. Wishing you the very best for everything ahead. Take care, bye."
+          },
+          {
+            "kind": "image",
+            "src": "/media/web/varun-photo.jpg",
+            "caption": "Outstanding Award 2026"
+          },
+          {
+            "kind": "video",
+            "src": "/media/videos/h-varun.mp4",
+            "poster": "/media/videos/posters/h-varun.jpg",
+            "placeholder": false,
+            "transcript": "Hi Narayan, like before you go, these lines are for you.\n\nJo tu na tha, karte the hum, baatein teri, yaadon se. Jaane kaise, phir se naina bhare. Samjhe the hum, gham hai khatam, dil hi na maane, phir se naina bhare.\n\nNarayan, I have always been a silent admirer of yours. Your way of thinking, your demos, the way you presented yourself at Tech Conclave — there was always something to learn from you.\n\nAnd I really admire how you made things beyond work too — fitness, singing, cars, interested in farming. My interactions with you over these last two years have been limited, but honestly they have been really inspiring.\n\nThank you for being an inspiration, and we'll really miss you. Wishing you the very best for everything ahead. Take care, bye."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "football-ec",
+    "name": "Thursday Football",
+    "title": "Group chat · After work",
+    "kind": "group",
+    "initialsColor": "green",
+    "presence": null,
+    "section": "chats",
+    "order": 16,
+    "unread": true,
+    "notice": null,
+    "thread": [
+      {
+        "type": "system",
+        "value": "Narayan Babu added Bharathi Shekar, Abhishek Nair, Sarvesh Pande, Jim Kim, and Ganesh R to this chat"
+      },
+      {
+        "type": "date",
+        "value": "February 2025"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "10:32 am",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/ec-office-turf.jpg"
+          },
+          {
+            "kind": "text",
+            "value": "New EC office turf is live. Who's in for a match this week?"
+          }
+        ],
+        "reactions": [
+          "⚽",
+          "❤️",
+          "❤️",
+          "👍"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Bharathi Shekar",
+        "senderColor": "blue",
+        "time": "10:41 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Count me in. Thursday evening works?"
+          }
+        ],
+        "reactions": [
+          "👍",
+          "👍"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Sarvesh Pande",
+        "senderColor": "yellow",
+        "time": "10:48 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Thursday works. Need at least eight for a proper game."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Jim Kim",
+        "senderColor": "yellow",
+        "time": "10:49 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I'm in. Don't put me in goal."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Ganesh R",
+        "senderColor": "blue",
+        "time": "10:50 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I'll bring the bibs."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "10:52 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Goalkeeper taken. Someone bring bibs and a spare ball."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Abhishek Nair",
+        "senderColor": "pink",
+        "time": "11:05 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I'll bring the bibs. Ball's in my bay locker."
+          }
+        ],
+        "reactions": [
+          "⚽"
+        ]
+      },
+      {
+        "type": "date",
+        "value": "March 2025"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Abhishek Nair",
+        "senderColor": "pink",
+        "time": "7:45 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Good game today. Narayan actually stayed in goal the whole second half."
+          }
+        ],
+        "reactions": [
+          "⚽",
+          "😂"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "7:52 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Someone had to. Sarvesh kept shooting wide."
+          }
+        ],
+        "reactions": [
+          "😂",
+          "😂"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "7:54 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Since when are you a keeper anyway"
+          }
+        ],
+        "sender": "Sarvesh Pande",
+        "senderColor": "yellow"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "7:55 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Three years of product reviews. I'm very good at saving."
+          }
+        ],
+        "reactions": [
+          "😂",
+          "🥴",
+          "⚽"
+        ]
+      },
+      {
+        "type": "date",
+        "value": "August 2025"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Bharathi Shekar",
+        "senderColor": "blue",
+        "time": "11:20 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Heads up — I'm moving to the US this month. Last few turf games for me for a while."
+          }
+        ],
+        "reactions": [
+          "❤️",
+          "❤️",
+          "❤️"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "11:28 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "We'll miss you on the turf. Drop a photo when you're settled."
+          }
+        ]
+      },
+      {
+        "type": "date",
+        "value": "July 2026"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Sarvesh Pande",
+        "senderColor": "yellow",
+        "time": "5:30 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Thursday still on? Turf's free at 6."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Bharathi Shekar",
+        "senderColor": "blue",
+        "time": "5:44 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Wish I could — still on US time. @Narayan Babu make it a good last one."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "5:51 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I'll be there. Same slot — gym first, then turf."
+          }
+        ],
+        "reactions": [
+          "❤️",
+          "❤️",
+          "⚽"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Abhishek Nair",
+        "senderColor": "pink",
+        "time": "6:02 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "See you there. And Narayan — no extra time this week, we've got a release tomorrow."
+          }
+        ],
+        "reactions": [
+          "😂",
+          "😂"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "allwyn",
+    "name": "Allwyn Vaz",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "purple",
+    "presence": "available",
+    "section": "chats",
+    "order": 17,
+    "unread": true,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:22 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Narayan always did things differently. That's something that stuck about my impression of him."
+          },
+          {
+            "kind": "text",
+            "value": "He's one of those few people who, when all of us were using either Dell or Mac, was the only one using a Surface tablet — and he kept insisting that he wants to use it, and he also started promoting it."
+          },
+          {
+            "kind": "text",
+            "value": "Then I also learned from Krishna that Narayan has gone ahead and built his own ADAS system in his car, and now the car works like a full ADAS when ADAS was still being brought into India. And I was just figuring out — what else does this guy do."
+          },
+          {
+            "kind": "text",
+            "value": "The very next time I met Narayan was in a meeting room, and from his bag he pulled out a whole lot of gadgets and gizmos and kept it all around him. While the meeting was going on, he was doing something with it. At the end of it he packed all of it and put it in his bag."
+          },
+          {
+            "kind": "text",
+            "value": "I've never been able to figure out what Narayan is, and what else he can do. But all my interactions with him have been absolutely amazing. He always brought a different perspective to whatever he does, and we did benefit from it when PayZapp was going through a change."
+          },
+          {
+            "kind": "text",
+            "value": "I will of course miss him on the football field, though even I have stopped playing football, and also our discussion on the bikes that we had. It's good to know that he also rides a Triumph."
+          },
+          {
+            "kind": "text",
+            "value": "All the best to you Narayan. Look forward to catching up with you outside work, and whenever time permits maybe on the football field. Goodbye my friend."
+          },
+          {
+            "kind": "video",
+            "src": "/media/videos/allwyn.mp4",
+            "poster": "/media/videos/posters/allwyn.jpg",
+            "placeholder": false,
+            "transcript": "Narayan always did things differently. That's something that stuck about my impression of him.\n\nHe's one of those few people who, when all of us were using either Dell or Mac, was the only one using a Surface tablet — and he kept insisting that he wants to use it, and he also started promoting it.\n\nThen I also learned from Krishna that Narayan has gone ahead and built his own ADAS system in his car, and now the car works like a full ADAS when ADAS was still being brought into India. And I was just figuring out — what else does this guy do.\n\nThe very next time I met Narayan was in a meeting room, and from his bag he pulled out a whole lot of gadgets and gizmos and kept it all around him. While the meeting was going on, he was doing something with it. At the end of it he packed all of it and put it in his bag.\n\nI've never been able to figure out what Narayan is, and what else he can do. But all my interactions with him have been absolutely amazing. He always brought a different perspective to whatever he does, and we did benefit from it when PayZapp was going through a change.\n\nI will of course miss him on the football field, though even I have stopped playing football, and also our discussion on the bikes that we had. It's good to know that he also rides a Triumph.\n\nAll the best to you Narayan. Look forward to catching up with you outside work, and whenever time permits maybe on the football field. Goodbye my friend."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "amayranjan-das",
+    "name": "Amayranjan Das",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "green",
+    "presence": "available",
+    "section": "chats",
+    "order": 18,
+    "unread": true,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:15 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi Narayan, all the best for your future. I know I didn't get a chance to work much with you, but the instances we have interacted — Cipher integration with PayZapp, and multiple scenarios where we had to work together — they were phenomenal."
+          },
+          {
+            "kind": "text",
+            "value": "I wish I could have worked more with you, and may our paths cross again. All the best for your future endeavors, and see you again sometime."
+          },
+          {
+            "kind": "video",
+            "src": "/media/videos/amayranjan-das.mp4",
+            "poster": "/media/videos/posters/amayranjan-das.jpg",
+            "placeholder": false,
+            "transcript": "Hi Narayan, all the best for your future. I know I didn't get a chance to work much with you, but the instances we have interacted — Cipher integration with PayZapp, and multiple scenarios where we had to work together — they were phenomenal.\n\nI wish I could have worked more with you, and may our paths cross again. All the best for your future endeavors, and see you again sometime."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shubhayu",
+    "name": "Shubhayu Sengupta",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "pink",
+    "presence": "available",
+    "section": "chats",
+    "order": 19,
+    "unread": true,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "5:10 pm",
+        "blocks": [
+          {
+            "kind": "video",
+            "src": "/media/videos/shubhayu.mp4",
+            "poster": "/media/videos/posters/shubhayu.jpg",
+            "placeholder": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "uttam",
+    "name": "Uttam Rao",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "blue",
+    "presence": "available",
+    "section": "chats",
+    "order": 20,
+    "unread": true,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:42 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hey Narayan, I hear you're moving on. So here is a wish — you all the very best. I can't help say that I'll miss you very, very deeply my friend."
+          },
+          {
+            "kind": "text",
+            "value": "All the discussions we've had, some philosophical, some practical, are all very dear to me and I cherish them a lot. I've always thought you were a little bit like the Rancho of 3 Idiots as applied to Zeta, because you marched to a completely different beat yourself — a very unique person in your own way, outspoken, fearless, and extremely skilled."
+          },
+          {
+            "kind": "text",
+            "value": "I remember a couple of interactions with you when your knowledge base was so evident that it kind of left us stunned. All the very best in everything that you do in life, and I hope you'll stay in touch."
+          },
+          {
+            "kind": "text",
+            "value": "Deeply, deeply cherish our friendship. Take care of yourself, and I will think of you every time a PayZapp payment does not work. Just kidding! Thanks a lot for everything you've done my friend, and all the very best."
+          },
+          {
+            "kind": "video",
+            "src": "/media/videos/uttam.mp4",
+            "poster": "/media/videos/posters/uttam.jpg",
+            "placeholder": false,
+            "transcript": "Hey Narayan, I hear you're moving on. So here is a wish — you all the very best. I can't help say that I'll miss you very, very deeply my friend.\n\nAll the discussions we've had, some philosophical, some practical, are all very dear to me and I cherish them a lot. I've always thought you were a little bit like the Rancho of 3 Idiots as applied to Zeta, because you marched to a completely different beat yourself — a very unique person in your own way, outspoken, fearless, and extremely skilled.\n\nI remember a couple of interactions with you when your knowledge base was so evident that it kind of left us stunned. All the very best in everything that you do in life, and I hope you'll stay in touch.\n\nDeeply, deeply cherish our friendship. Take care of yourself, and I will think of you every time I open PayZapp. Just kidding — I'll think of you anyway. Thanks a lot for everything you've done my friend, and all the very best."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "manoj-machiraju",
+    "name": "Manoj Machiraju",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "blue",
+    "presence": "available",
+    "section": "chats",
+    "order": 21,
+    "unread": true,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "1:02 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi Narayan, as you move on from Zeta, I wanted to take a moment to share a few things I've genuinely valued from the time I had the opportunity to work with you."
+          },
+          {
+            "kind": "text",
+            "value": "One thing I've always appreciated is the way you look at products beyond just numbers and data."
+          },
+          {
+            "kind": "text",
+            "value": "During our product funnel reviews, you'd bring in the emotional side of the consumer — how a customer might actually feel or react, rather than looking at the journey only through a logical lens."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "The data never tells you how it feels",
+          "🙏",
+          "Thank you Manoj"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "1:06 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "That perspective stayed with me. It helped me understand that sometimes we need to take thoughtful bets without waiting for data to give us every answer."
+          },
+          {
+            "kind": "text",
+            "value": "The Thursday Club was another great example of the culture you created. Real startup energy — everyone coming together, getting excited about a common goal, trying to build something meaningful within a day."
+          },
+          {
+            "kind": "text",
+            "value": "I was part of one of those for Zapp Account. Seeing the feature we built get appreciation from the bank was especially rewarding."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Zapp Account was a good one 🙌",
+          "One day is all you need",
+          "Keep it going without me"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "1:11 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Beyond work, you've always been a great coach — approachable, easy to have a conversation with on almost any topic, and someone who brings a good sense of humour into the workplace."
+          },
+          {
+            "kind": "text",
+            "value": "That combination made interactions with you both enjoyable and enriching."
+          },
+          {
+            "kind": "text",
+            "value": "I'll definitely miss having you around, and the conversations we've had over the years. Wishing you all the very best for whatever you choose to build and take on next. I'm sure there are many exciting projects ahead."
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pradyoth",
+    "name": "Pradyoth K",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "pink",
+    "presence": "available",
+    "section": "chats",
+    "order": 22,
+    "unread": true,
+    "thread": [
+      {
+        "type": "date",
+        "value": "2022"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:18 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Cipher SDK shipped. CC Lego lives another day."
+          }
+        ],
+        "reactions": [
+          "🎉"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "6:24 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Good ship. Synapse next — same energy."
+          }
+        ]
+      },
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "1:22 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hey Narayan, it's pretty sad that you're leaving Zeta. You're the guy who believed in me — you hired me into Zeta."
+          },
+          {
+            "kind": "text",
+            "value": "I remember we had an amazing time working together in US Credit. CC Lego we used to call it back then. Cipher, Cipher SDK, a bit of Synapse, and then into PayZapp. I've learnt quite a lot from you. I've enjoyed our brainstorming sessions."
+          },
+          {
+            "kind": "text",
+            "value": "And honestly, what I really enjoyed is you were always approachable. I could just walk into your desk, walk into your cabin like I used to do all the time, and randomly complain about things or tell you that this is not working — and you would go out of your way to solve it for me."
+          },
+          {
+            "kind": "text",
+            "value": "I'll always remember quite a few things you've told me over the years. It's been an amazing journey. You're one of the best people I've met, one of the finest leaders I've seen."
+          },
+          {
+            "kind": "text",
+            "value": "I don't have to tell you — you'll of course continue to be cool and fearless and amazing, with that bit of swagger you've got. I'll miss you around in office, and I hope our paths cross again in the future."
+          },
+          {
+            "kind": "text",
+            "value": "What I say still holds, Narayan. I hope you start your own firm and you hire us all. Jokes apart — all the best, I'll miss you around, and have fun."
+          },
+          {
+            "kind": "video",
+            "src": "/media/videos/pradyoth.mp4",
+            "poster": "/media/videos/posters/pradyoth.jpg",
+            "placeholder": false,
+            "transcript": "Hey Narayan, it's pretty sad that you're leaving Zeta. You're the guy who believed in me — you hired me into Zeta.\n\nI remember we had an amazing time working together in US Credit. CC Lego we used to call it back then. Cipher, Cipher SDK, a bit of Synapse, and then into PayZapp. I've learnt quite a lot from you. I've enjoyed our brainstorming sessions.\n\nAnd honestly, what I really enjoyed is you were always approachable. I could just walk into your desk, walk into your cabin like I used to do all the time, and randomly complain about things or tell you that this is not working — and you would go out of your way to solve it for me.\n\nI'll always remember quite a few things you've told me over the years. It's been an amazing journey. You're one of the best people I've met, one of the finest leaders I've seen.\n\nI don't have to tell you — you'll of course continue to be cool and fearless and amazing, with that bit of swagger you've got. I'll miss you around in office, and I hope our paths cross again in the future.\n\nWhat I say still holds, Narayan. I hope you start your own firm and you hire us all. Jokes apart — all the best, I'll miss you around, and have fun."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pj-support-group",
+    "name": "PJ Support Group",
+    "title": null,
+    "kind": "group",
+    "initialsColor": "yellow",
+    "presence": null,
+    "section": "favourites",
+    "order": 3,
+    "unread": true,
+    "pinnedMessage": {
+      "author": "Narayan Babu",
+      "text": "House rules: one PJ per person per day. Groans count as applause.",
+      "date": "21/03/25"
+    },
+    "notice": null,
+    "thread": [
+      {
+        "type": "system",
+        "value": "Narayan Babu created this chat"
+      },
+      {
+        "type": "system",
+        "value": "Narayan Babu named the group PJ Support Group"
+      },
+      {
+        "type": "date",
+        "value": "21 March 2025"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "10:14 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Starting this so I stop doing it in reviews."
+          },
+          {
+            "kind": "text",
+            "value": "House rules: one a day. Groans count as applause."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:15 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "This is a support group for us, not for you."
+          }
+        ],
+        "sender": "Arup Saha",
+        "senderColor": "blue",
+        "reactions": [
+          "😂",
+          "😂"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "10:16 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Same thing."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "10:17 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I'll go first. Why did the calendar look tired?"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:17 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "no"
+          }
+        ],
+        "sender": "Manivel Ramasamy",
+        "senderColor": "green"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "10:18 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Its days were numbered."
+          }
+        ],
+        "reactions": [
+          "🥴",
+          "🥴",
+          "😂"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:18 am",
+        "sender": "Anoop Sethumadhavan",
+        "senderColor": "purple",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I groaned. That counts."
+          }
+        ],
+        "reactions": [
+          "😂"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:18 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "it's quarter end. that's the worst possible week for this"
+          }
+        ],
+        "sender": "Manivel Ramasamy",
+        "senderColor": "green"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "10:19 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "That's why it works."
+          }
+        ]
+      },
+      {
+        "type": "date",
+        "value": "24 March 2025"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:02 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Alright. Mine. Why is the farmer so good at his job?"
+          }
+        ],
+        "sender": "Arup Saha",
+        "senderColor": "blue"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:03 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "He's outstanding in his field."
+          }
+        ],
+        "sender": "Arup Saha",
+        "senderColor": "blue",
+        "reactions": [
+          "🥴",
+          "😂"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "11:04 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Solid. Old, but solid. 7."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:04 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "you're rating them now"
+          }
+        ],
+        "sender": "Arup Saha",
+        "senderColor": "blue"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "11:05 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Someone has to."
+          }
+        ]
+      },
+      {
+        "type": "date",
+        "value": "26 March 2025"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:40 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I asked him to make the card screen pop."
+          }
+        ],
+        "sender": "Prishita Jain",
+        "senderColor": "purple"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:41 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "He brought a balloon to the review."
+          }
+        ],
+        "sender": "Prishita Jain",
+        "senderColor": "purple",
+        "reactions": [
+          "😂"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:41 pm",
+        "sender": "Jayant Jaiswal",
+        "senderColor": "red",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I was there. He did."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "3:42 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "It popped."
+          }
+        ],
+        "reactions": [
+          "🥴",
+          "😂",
+          "😂"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:43 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I laughed. In the review. In front of everyone."
+          }
+        ],
+        "sender": "Konetisetty Sai Krishna",
+        "senderColor": "blue"
+      },
+      {
+        "type": "date",
+        "value": "27 March 2025"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:12 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Can I submit one late? I only got yesterday's just now."
+          }
+        ],
+        "sender": "Harsheet R",
+        "senderColor": "yellow"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:12 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I was in the lift."
+          }
+        ],
+        "sender": "Harsheet R",
+        "senderColor": "yellow"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "8:13 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Ah. \"I avoid the lift. Too many ups and downs.\""
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:14 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "...that's the one. It took me eleven hours."
+          }
+        ],
+        "sender": "Harsheet R",
+        "senderColor": "yellow",
+        "reactions": [
+          "😂",
+          "🥴"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:15 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "That's the trick with his. They always land late."
+          }
+        ],
+        "sender": "Arup Saha",
+        "senderColor": "blue",
+        "reactions": [
+          "❤️"
+        ]
+      },
+      {
+        "type": "date",
+        "value": "12 June 2025"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:02 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Submitting one. Why did the cheque go to the doctor?"
+          }
+        ],
+        "sender": "Divyansh Joshi",
+        "senderColor": "yellow"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:03 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "It kept bouncing."
+          }
+        ],
+        "sender": "Divyansh Joshi",
+        "senderColor": "yellow",
+        "reactions": [
+          "🥴",
+          "😂"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "4:04 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Good. 8. You've been paying attention."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:04 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I learned from the best"
+          }
+        ],
+        "sender": "Divyansh Joshi",
+        "senderColor": "yellow"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:05 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "He learned from the worst. Same person."
+          }
+        ],
+        "sender": "Arup Saha",
+        "senderColor": "blue",
+        "reactions": [
+          "😂",
+          "😂"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:20 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Mine. Why was the computer cold?"
+          }
+        ],
+        "sender": "Rahul Mahale",
+        "senderColor": "red"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:21 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "It left its Windows open."
+          }
+        ],
+        "sender": "Rahul Mahale",
+        "senderColor": "red"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:21 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "that one's for Narayan specifically"
+          }
+        ],
+        "sender": "Manivel Ramasamy",
+        "senderColor": "green",
+        "reactions": [
+          "😂"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "4:22 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Surface stays."
+          }
+        ],
+        "reactions": [
+          "🥴",
+          "😂",
+          "😂"
+        ]
+      },
+      {
+        "type": "date",
+        "value": "9 January 2026"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:10 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Asked the intern to fix the bug this morning."
+          }
+        ],
+        "sender": "Konetisetty Sai Krishna",
+        "senderColor": "blue"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:11 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "He came back with a spray."
+          }
+        ],
+        "sender": "Konetisetty Sai Krishna",
+        "senderColor": "blue",
+        "reactions": [
+          "😂",
+          "🥴"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "11:12 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "That's not yours. That happened."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:12 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Both can be true"
+          }
+        ],
+        "sender": "Konetisetty Sai Krishna",
+        "senderColor": "blue"
+      },
+      {
+        "type": "message",
+        "from": "nyn",
+        "time": "11:13 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "6. Points off for honesty."
+          }
+        ],
+        "reactions": [
+          "😂"
+        ]
+      },
+      {
+        "type": "date",
+        "value": "4 August 2026"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:40 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I've worked out the actual pattern. He doesn't tell them at random."
+          }
+        ],
+        "sender": "Vinay Murthy",
+        "senderColor": "green"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:41 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Plutus staff meeting. Room's tense, someone's about to say something they can't take back. That's when it comes."
+          }
+        ],
+        "sender": "Vinay Murthy",
+        "senderColor": "green",
+        "reactions": [
+          "👏",
+          "❤️"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:42 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I asked him once why he does it mid-review."
+          }
+        ],
+        "sender": "Manoj Machiraju",
+        "senderColor": "blue"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:43 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "He said someone has to break the ice. The AC is already on."
+          }
+        ],
+        "sender": "Manoj Machiraju",
+        "senderColor": "blue",
+        "reactions": [
+          "😂",
+          "🥴",
+          "🥴"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:44 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "...he's been defusing us. For three years."
+          }
+        ],
+        "sender": "Arup Saha",
+        "senderColor": "blue"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:45 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "With PJs. Yes."
+          }
+        ],
+        "sender": "Vinay Murthy",
+        "senderColor": "green",
+        "reactions": [
+          "❤️",
+          "😂"
+        ]
+      },
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:02 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Last one before Friday. Floor's yours."
+          }
+        ],
+        "sender": "Arup Saha",
+        "senderColor": "blue"
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "The ATM quit its job. It lost interest.",
+          "I wanted to leave on a high note. So I took the stairs.",
+          "You go. I've retired."
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:18 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Of course you had one ready."
+          }
+        ],
+        "sender": "Arup Saha",
+        "senderColor": "blue",
+        "reactions": [
+          "😂"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:20 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "For the record — I told everyone the PJs are the one thing I won't miss."
+          }
+        ],
+        "sender": "Arup Saha",
+        "senderColor": "blue"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:20 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I've thought about it. I was lying."
+          }
+        ],
+        "sender": "Arup Saha",
+        "senderColor": "blue",
+        "reactions": [
+          "❤️",
+          "❤️",
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arup-saha",
+    "name": "Arup Saha",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "blue",
+    "presence": "available",
+    "section": "chats",
+    "order": 24,
+    "unread": true,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:40 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi Narayan,"
+          },
+          {
+            "kind": "text",
+            "value": "It's hard to see you leave. I just want to thank you for the trust and faith you've always shown in me. It has meant a lot — probably more than I've ever said."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Arup 🙏",
+          "You never had to say it",
+          "Thank you for everything"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:44 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I'm really going to miss our conversations. Especially those endless tech discussions, exchanging crazy ideas, and hearing your vision and perspective on things."
+          },
+          {
+            "kind": "text",
+            "value": "I've learned a lot from you — not just professionally, but personally as well."
+          },
+          {
+            "kind": "text",
+            "value": "Somewhere along the way, I feel our relationship went beyond just being a boss and a colleague and grew into a friendship. One that I truly value and hope to cherish for many, many years."
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Not a goodbye ❤️",
+          "See you on the other side",
+          "Let's get coffee next week"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:49 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Thank you for everything. This is definitely not a goodbye."
+          },
+          {
+            "kind": "text",
+            "value": "Wishing you an amazing journey ahead, and I'll be looking forward to seeing everything you come up with next — big or small. Knowing you, I'm sure there will be plenty. 😊"
+          },
+          {
+            "kind": "text",
+            "value": "All the very best!"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:50 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "PS: The one thing I am certainly NOT going to miss are the PJs 🥴"
+          }
+        ],
+        "reactions": [
+          "😂"
+        ]
+      }
+    ]
+  }
+]

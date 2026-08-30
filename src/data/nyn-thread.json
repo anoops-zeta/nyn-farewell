@@ -1,0 +1,270 @@
+{
+  "pinnedMessage": {
+    "author": "Narayan Babu",
+    "text": "PJ bank. Do not delete. You will need these.",
+    "date": "14/08/26"
+  },
+  "thread": [
+    {
+      "type": "system",
+      "value": "You created this chat with yourself"
+    },
+    {
+      "type": "date",
+      "value": "2022"
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "11:02 pm",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "CC Lego — don't lose this list"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "Cipher SDK walkthrough",
+            "Synapse edge cases",
+            "save one PJ for the retro"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "date",
+      "value": "March 2023"
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "7:45 am",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "conclave tomorrow: demo the actual thing. slides are for people who didn't build it."
+        }
+      ]
+    },
+    {
+      "type": "date",
+      "value": "April 2024"
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "10:12 am",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "offsite. flat tyre. spare is UNDER the luggage."
+        },
+        {
+          "kind": "text",
+          "value": "everyone very quiet in the car so: \"why was the tyre upset? it was feeling a bit flat.\""
+        },
+        {
+          "kind": "text",
+          "value": "worked. three groans. saving it."
+        }
+      ]
+    },
+    {
+      "type": "date",
+      "value": "December 2024"
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "12:01 pm",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "town hall done"
+        },
+        {
+          "kind": "text",
+          "value": "someone asked again why I'm the only one on a Surface. Surface stays."
+        }
+      ]
+    },
+    {
+      "type": "date",
+      "value": "March 2025"
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "9:20 pm",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "PJ bank — for when a room needs one"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "why did the calendar look tired? its days were numbered",
+            "I avoid the lift. too many ups and downs.",
+            "why is the farmer so good at his job? he's outstanding in his field",
+            "why did the samosa join the gym? to get more filling",
+            "why did the cheque go to the doctor? it kept bouncing",
+            "why was the computer cold? it left its Windows open"
+          ]
+        },
+        {
+          "kind": "text",
+          "value": "use the calendar one for quarter end. it kills at quarter end."
+        }
+      ]
+    },
+    {
+      "type": "date",
+      "value": "October 2025"
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "2:30 pm",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "offsite karaoke shortlist"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "practice the high note",
+            "one slow one",
+            "learn a Hindi one before the next offsite"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "6:40 pm",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "repack the bag. someone asked what half of it does."
+        },
+        {
+          "kind": "text",
+          "value": "told them I'd get back to them."
+        }
+      ]
+    },
+    {
+      "type": "date",
+      "value": "March 2026"
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "3:10 pm",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "reviewed the onboarding flow again. still three taps too long."
+        },
+        {
+          "kind": "text",
+          "value": "nobody else thinks this is a problem yet. they will."
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "4:22 pm",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "leg day tomorrow. plot check Sunday."
+        },
+        {
+          "kind": "text",
+          "value": "ADAS still stops for its own shadow. working on it."
+        }
+      ]
+    },
+    {
+      "type": "date",
+      "value": "August 2026"
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "9:00 am",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "leaving checklist"
+        },
+        {
+          "kind": "list",
+          "items": [
+            "reply to everyone. yes everyone.",
+            "hand over the studio properly — docs AND the messy debug notes",
+            "turf one last time",
+            "Triumph service before the last ride",
+            "update nyn.me"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "11:47 am",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "farewell speech. need an opener."
+        },
+        {
+          "kind": "text",
+          "value": "\"people keep asking why I joined the gym this year. to work out what to do next.\""
+        },
+        {
+          "kind": "text",
+          "value": "that'll do."
+        }
+      ],
+      "reactions": [
+        "😂"
+      ]
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "8:41 pm",
+      "blocks": [
+        {
+          "kind": "link",
+          "url": "https://nyn.me",
+          "title": "nyn.me",
+          "description": "Next chapter. Same guy."
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "from": "nyn",
+      "time": "9:14 pm",
+      "blocks": [
+        {
+          "kind": "text",
+          "value": "saving this here so Future Me can't pretend I never said it"
+        },
+        {
+          "kind": "text",
+          "value": "I wanted to leave on a high note. So I took the stairs."
+        }
+      ]
+    }
+  ]
+}
