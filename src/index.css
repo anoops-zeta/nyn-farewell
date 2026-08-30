@@ -52,6 +52,60 @@
   --pill-border: #5c5c5c;
 }
 
+@media (max-width: 767px) {
+  .text-panel-title {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .text-chat-name {
+    font-size: 22px;
+    line-height: 26px;
+  }
+  .text-msg-body {
+    font-size: 17px;
+    line-height: 24px;
+  }
+  .text-meta {
+    font-size: 14px;
+    line-height: 17px;
+  }
+  .text-section {
+    font-size: 15px;
+    line-height: 21px;
+  }
+  .text-ui-2xs {
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .text-ui-xs {
+    font-size: 13px;
+    line-height: 17px;
+  }
+  .text-ui-sm {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .text-ui-md {
+    font-size: 15px;
+    line-height: 19px;
+  }
+  .text-ui-base {
+    font-size: 16px;
+    line-height: 23px;
+  }
+  .text-ui-lg {
+    font-size: 21px;
+    line-height: 27px;
+  }
+  .text-ui-xl {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .text-ui-display {
+    font-size: 68px;
+  }
+}
+
 html,
 body,
 #root {

@@ -62,7 +62,7 @@ export function MessageList({ person }: { person: Person }) {
         {items.map((item, i) => {
           if (item.type === "date") {
             return (
-              <p key={`d-${i}`} className="py-2 text-center text-[13px] text-text-secondary">
+              <p key={`d-${i}`} className="py-2 text-center text-ui-sm text-text-secondary">
                 {item.value}
               </p>
             );
@@ -71,14 +71,14 @@ export function MessageList({ person }: { person: Person }) {
             return (
               <div key={`lr-${i}`} className="flex items-center gap-3 py-2">
                 <span className="h-px flex-1 bg-accent/70" />
-                <span className="text-[12px] font-semibold text-accent">Last read</span>
+                <span className="text-ui-xs font-semibold text-accent">Last read</span>
                 <span className="h-px flex-1 bg-accent/70" />
               </div>
             );
           }
           if (item.type === "system") {
             return (
-              <p key={`s-${i}`} className="py-1 text-center text-[12px] text-text-secondary">
+              <p key={`s-${i}`} className="py-1 text-center text-ui-xs text-text-secondary">
                 {item.value}
               </p>
             );
@@ -223,11 +223,11 @@ function ReactionBar({
       {items.map(({ emoji, by }) => (
         <span
           key={emoji}
-          className="flex h-[26px] items-center rounded-full border border-white/10 bg-[#2a2a2a] px-2 text-[14px] leading-none"
+          className="flex h-[26px] items-center rounded-full border border-white/10 bg-[#2a2a2a] px-2 text-ui-md leading-none"
         >
           {emoji}
           {!isDm && by.length > 1 ? (
-            <span className="ml-0.5 text-[11px] text-text-secondary">{by.length}</span>
+            <span className="ml-0.5 text-ui-2xs text-text-secondary">{by.length}</span>
           ) : null}
         </span>
       ))}

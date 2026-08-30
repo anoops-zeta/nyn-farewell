@@ -70,7 +70,7 @@ function ChatRow({
       onClick={onSelect}
       onMouseEnter={() => setHover(true)}
       onMouseLeave={() => setHover(false)}
-      className={`group flex items-center gap-3 md:gap-2 ${sidebarRowBase} ${
+      className={`group mb-2 flex items-center gap-3 md:mb-0 md:gap-2 ${sidebarRowBase} ${
         isMobile ? "h-[58px]" : "h-[40px]"
       } ${selected ? sidebarRowSelected : sidebarRowIdle}`}
     >
@@ -84,7 +84,7 @@ function ChatRow({
       />
       <span className="min-w-0 flex-1 text-left">
         <span
-          className={`block truncate text-row-name leading-tight ${
+          className={`block truncate text-[15px] leading-tight max-md:text-[17px] max-md:leading-[22px] max-md:opacity-95 ${
             selected
               ? "font-normal text-white"
               : unread
@@ -96,9 +96,7 @@ function ChatRow({
         </span>
         {isMobile && snippet ? (
           <span
-            className={`mt-0.5 block truncate text-[13px] leading-tight ${
-              unread ? "font-medium text-[#b8b8b8]" : "font-normal text-text-secondary"
-            }`}
+            className="mt-0.5 block truncate text-ui-sm font-normal leading-tight text-text-secondary opacity-90"
           >
             {snippet}
           </span>
@@ -164,7 +162,7 @@ export function Sidebar() {
   };
 
   return (
-    <aside className="flex h-full min-h-0 w-full shrink-0 flex-col border-r border-white/10 bg-sidebar md:w-[300px]">
+    <aside className="flex h-full min-h-0 w-full shrink-0 flex-col bg-sidebar md:w-[300px] md:border-r md:border-white/10">
       <div className="flex h-12 items-center justify-between px-4 pt-1">
         <h1 className="text-panel-title text-white">Chat</h1>
         <button className="icon-btn text-text-secondary" type="button" aria-label="Search chats">
@@ -186,7 +184,7 @@ export function Sidebar() {
               key={id}
               type="button"
               onClick={() => setChatFilter(id)}
-              className={`h-7 shrink-0 rounded-full border border-solid px-3 text-[12px] leading-none ${
+              className={`h-7 shrink-0 rounded-full border border-solid px-3 text-[12px] leading-none max-md:text-[13px] ${
                 on
                   ? "border-white/70 bg-white/[0.08] font-medium text-white"
                   : "border-[var(--pill-border)] bg-transparent text-[#d2d2d2] hover:border-[#8a8a8a] hover:bg-white/[0.04]"
@@ -232,7 +230,7 @@ export function Sidebar() {
                 />
                 {sections.favourites &&
                   (favouritePeople.length === 0 ? (
-                    <p className="px-4 py-1 text-[12px] text-text-secondary">No matches</p>
+                    <p className="px-4 py-1 text-ui-xs text-text-secondary">No matches</p>
                   ) : (
                     favouritePeople.map((person) => (
                       <ChatRow
@@ -256,7 +254,7 @@ export function Sidebar() {
                 />
                 {sections.chats &&
                   (chatPeople.length === 0 ? (
-                    <p className="px-4 py-1 text-[12px] text-text-secondary">No matches</p>
+                    <p className="px-4 py-1 text-ui-xs text-text-secondary">No matches</p>
                   ) : (
                     chatPeople.map((person) => (
                       <ChatRow

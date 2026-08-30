@@ -9,7 +9,7 @@ export function SharedTab({ person }: { person: Person }) {
   if (items.length === 0) {
     return (
       <div className="flex flex-1 items-center justify-center px-6 text-center">
-        <p className="text-[13px] text-text-secondary">
+        <p className="text-ui-sm text-text-secondary">
           {config.emptyCopy.sharedEmpty ?? "Nothing has been shared in this chat yet."}
         </p>
       </div>
@@ -43,13 +43,13 @@ export function RecapTab({ person }: { person: Person }) {
 
   return (
     <div className="teams-scroll min-h-0 flex-1 overflow-y-auto px-6 py-5">
-      <p className="text-[15px] font-semibold text-white">{recap?.header ?? "Recap"}</p>
-      <p className="mt-1 text-[13px] text-text-secondary">
+      <p className="text-ui-base font-semibold text-white">{recap?.header ?? "Recap"}</p>
+      <p className="mt-1 text-ui-sm text-text-secondary">
         {recap?.subheader ?? "AI-generated summary of this conversation"}
       </p>
-      <p className="mt-4 whitespace-pre-wrap text-[15px] leading-relaxed text-text-primary">{body}</p>
+      <p className="mt-4 whitespace-pre-wrap text-ui-base leading-relaxed text-text-primary">{body}</p>
       {recap?.footnote ? (
-        <p className="mt-6 text-[12px] text-text-secondary">{recap.footnote}</p>
+        <p className="mt-6 text-ui-xs text-text-secondary">{recap.footnote}</p>
       ) : null}
     </div>
   );
@@ -58,8 +58,8 @@ export function RecapTab({ person }: { person: Person }) {
 export function NotesTab({ line, body }: { line: string; body?: string }) {
   return (
     <div className="flex min-h-0 flex-1 flex-col bg-surface px-6 py-5">
-      <p className="text-[15px] text-text-primary">{line}</p>
-      {body ? <p className="mt-4 text-[15px] text-text-secondary">{body}</p> : null}
+      <p className="text-ui-base text-text-primary">{line}</p>
+      {body ? <p className="mt-4 text-ui-base text-text-secondary">{body}</p> : null}
     </div>
   );
 }

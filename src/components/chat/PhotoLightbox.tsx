@@ -70,7 +70,7 @@ export function PhotoLightboxProvider({ children }: { children: ReactNode }) {
       {item ? (
         <div className="absolute inset-0 z-40 flex flex-col" role="dialog" aria-modal="true" aria-label="Photo">
           <div className="absolute inset-0 bg-black/70" onClick={close} />
-          <header className="relative z-10 flex h-12 shrink-0 items-center gap-2 bg-[#1a1a1a]/90 px-2 text-[13px] text-text-primary">
+          <header className="relative z-10 flex h-12 shrink-0 items-center gap-2 bg-[#1a1a1a]/90 px-2 text-ui-sm text-text-primary">
             <button
               type="button"
               className="icon-btn h-8 w-8 text-text-secondary hover:text-white"

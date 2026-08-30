@@ -1,5 +1,6 @@
 import { ConversationHeader } from "@/components/shell/ConversationHeader";
 import { ComposeBox } from "@/components/shell/ComposeBox";
+import { MobileBackHeader } from "@/components/shell/MobileBackHeader";
 import { PinnedBar } from "@/components/shell/PinnedBar";
 import { MessageList } from "@/components/chat/MessageList";
 import { NotesTab, RecapTab, SharedTab } from "@/components/chat/SharedTab";
@@ -13,10 +14,33 @@ export function ConversationPane() {
 
   let body: ReactNode;
 
-  if (view.kind === "copilot") body = <CopilotPane />;
-  else if (view.kind === "mentions") body = <EmptyPane title="Mentions" body={config.emptyCopy.mentions} />;
-  else if (view.kind === "drafts") {
-    body = <EmptyPane title="Drafts" body={config.emptyCopy.drafts} />;
+  if (view.kind === "copilot") {
+    body = (
+      <>
+        <MobileBackHeader title="Copilot" />
+        <div className="min-h-0 flex-1">
+          <CopilotPane />
+        </div>
+      </>
+    );
+  } else if (view.kind === "mentions") {
+    body = (
+      <>
+        <MobileBackHeader title="Mentions" />
+        <div className="min-h-0 flex-1">
+          <EmptyPane title="Mentions" body={config.emptyCopy.mentions} />
+        </div>
+      </>
+    );
+  } else if (view.kind === "drafts") {
+    body = (
+      <>
+        <MobileBackHeader title="Drafts" />
+        <div className="min-h-0 flex-1">
+          <EmptyPane title="Drafts" body={config.emptyCopy.drafts} />
+        </div>
+      </>
+    );
   } else if (view.kind === "teams") body = <TeamsPane />;
   else if (!selectedPerson) {
     body = <EmptyPane title="No chat selected" body="Pick a conversation from the sidebar." />;

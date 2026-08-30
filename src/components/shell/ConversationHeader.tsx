@@ -39,11 +39,11 @@ export function ConversationHeader() {
       />
       <h2 className="min-w-0 flex-1 truncate text-chat-name text-white">{selectedPerson.name}</h2>
 
-      <div className="flex items-center gap-0.5 text-text-secondary">
+      <div className="hidden items-center gap-0.5 text-text-secondary sm:flex">
         {isGroup ? (
           <button
             type="button"
-            className="mr-1 hidden h-8 items-center gap-1 rounded px-2 text-[13px] text-text-primary hover:bg-white/10 sm:flex"
+            className="mr-1 hidden h-8 items-center gap-1 rounded px-2 text-ui-sm text-text-primary hover:bg-white/10 sm:flex"
           >
             <IconVideo size={18} />
             Meet now

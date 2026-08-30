@@ -70,7 +70,7 @@ export function CopilotPane() {
           <div className="mb-5">
             <IconSparkle size={40} className="text-accent" />
           </div>
-          <h2 className="px-4 text-center text-[22px] font-semibold tracking-tight text-white sm:text-[28px]">
+          <h2 className="px-4 text-center text-ui-xl font-semibold tracking-tight text-white sm:text-[28px]">
             Welcome to Copilot Chat
           </h2>
         </div>
@@ -80,7 +80,7 @@ export function CopilotPane() {
             {turns.map((turn, i) => (
               <div
                 key={i}
-                className={`max-w-[90%] whitespace-pre-wrap rounded-xl px-4 py-3 text-[15px] leading-relaxed ${
+                className={`max-w-[90%] whitespace-pre-wrap rounded-xl px-4 py-3 text-ui-base leading-relaxed ${
                   turn.role === "user"
                     ? "self-end bg-bubble-out text-white"
                     : "self-start bg-[#252525] text-text-primary"
@@ -103,7 +103,7 @@ export function CopilotPane() {
             onChange={(e) => setDraft(e.target.value)}
             onKeyDown={onKeyDown}
             placeholder="Message Copilot"
-            className="h-full min-w-0 flex-1 bg-transparent px-2 text-[15px] text-text-primary outline-none placeholder:text-text-secondary"
+            className="h-full min-w-0 flex-1 bg-transparent px-2 text-ui-base text-text-primary outline-none placeholder:text-text-secondary"
             aria-label="Message Copilot"
           />
           <button type="button" className="icon-btn hidden h-8 w-8 sm:inline-flex" aria-label="Voice">
@@ -125,7 +125,7 @@ export function CopilotPane() {
                 key={chip}
                 type="button"
                 onClick={() => send(chip)}
-                className="h-8 rounded-full border border-[#4a4a4a] bg-[#2a2a2a] px-3.5 text-[13px] text-text-primary hover:bg-[#333]"
+                className="h-8 rounded-full border border-[#4a4a4a] bg-[#2a2a2a] px-3.5 text-ui-sm text-text-primary hover:bg-[#333]"
               >
                 {chip}
               </button>
@@ -151,10 +151,10 @@ export function EmptyPane({ title, body }: { title: string; body: string }) {
   return (
     <div className="flex h-full min-h-0 w-full flex-col items-center justify-center bg-surface px-8 text-center">
       <div className="mb-6 flex h-28 w-28 items-center justify-center rounded-full bg-[#2a2a2a]">
-        <span className="text-[64px] font-light leading-none text-[#5a5a5a]">@</span>
+        <span className="text-ui-display font-light leading-none text-[#5a5a5a]">@</span>
       </div>
-      <p className="max-w-sm text-[20px] font-semibold text-white">{title}</p>
-      <p className="mt-2 max-w-sm text-[15px] leading-relaxed text-text-secondary">{body}</p>
+      <p className="max-w-sm text-ui-lg font-semibold text-white">{title}</p>
+      <p className="mt-2 max-w-sm text-ui-base leading-relaxed text-text-secondary">{body}</p>
     </div>
   );
 }

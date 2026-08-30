@@ -88,10 +88,10 @@ function Block({
   if (block.kind === "quote") {
     return (
       <div className="mb-1.5 border-l-2 border-white/30 pl-2.5">
-        <p className="text-[12px] text-text-secondary">
+        <p className="text-ui-xs text-text-secondary">
           {block.author} {block.time}
         </p>
-        <p className="text-[13px] text-text-secondary">
+        <p className="text-ui-sm text-text-secondary">
           <FormattedText value={block.value} />
         </p>
       </div>
@@ -127,10 +127,10 @@ function Block({
   if (block.kind === "card") {
     return (
       <div className="w-[min(320px,100%)] rounded-md border border-white/10 bg-card p-3">
-        <p className="text-[14px] font-semibold text-white">{block.title}</p>
-        <p className="mt-1 text-[13px] text-text-secondary">{block.body}</p>
+        <p className="text-ui-md font-semibold text-white">{block.title}</p>
+        <p className="mt-1 text-ui-sm text-text-secondary">{block.body}</p>
         {block.footnote ? (
-          <p className="mt-2 text-[11px] text-text-secondary">{block.footnote}</p>
+          <p className="mt-2 text-ui-2xs text-text-secondary">{block.footnote}</p>
         ) : null}
       </div>
     );
@@ -154,7 +154,7 @@ function ImageBlock({
   if (failed) {
     return (
       <div
-        className="flex h-[180px] w-[min(520px,100%)] items-center justify-center rounded-md bg-[#2a2a2a] text-[12px] text-text-secondary"
+        className="flex h-[180px] w-[min(520px,100%)] items-center justify-center rounded-md bg-[#2a2a2a] text-ui-xs text-text-secondary"
         style={{ maxWidth: 360 }}
       >
         Photo coming soon
@@ -179,7 +179,7 @@ function ImageBlock({
         />
       </button>
       {caption ? (
-        <figcaption className="mt-1.5 text-[13px] leading-5 text-text-primary">{caption}</figcaption>
+        <figcaption className="mt-1.5 text-ui-sm leading-5 text-text-primary">{caption}</figcaption>
       ) : null}
     </figure>
   );
@@ -254,7 +254,7 @@ function VideoBlock({
           </span>
         </span>
         {soon || placeholder ? (
-          <span className="absolute bottom-2 left-2 rounded bg-black/70 px-2 py-0.5 text-[11px] text-white">
+          <span className="absolute bottom-2 left-2 rounded bg-black/70 px-2 py-0.5 text-ui-2xs text-white">
             {soon ? "Coming soon" : "Video"}
           </span>
         ) : null}
@@ -267,10 +267,10 @@ function VideoBlock({
       {player}
       {transcript ? (
         <div className="mt-2 rounded-md bg-black/25 px-2.5 py-2">
-          <p className="mb-1 text-[11px] font-semibold uppercase tracking-wide text-text-secondary">
+          <p className="mb-1 text-ui-2xs font-semibold uppercase tracking-wide text-text-secondary">
             Transcript
           </p>
-          <p className="whitespace-pre-wrap text-[13px] leading-5 text-text-primary">{transcript}</p>
+          <p className="whitespace-pre-wrap text-ui-sm leading-5 text-text-primary">{transcript}</p>
         </div>
       ) : null}
     </div>
@@ -293,8 +293,8 @@ function FileCard({
           <FileGlyph app={block.app} />
         </span>
         <div className="min-w-0 flex-1">
-          <p className="truncate text-[13px] font-semibold text-white">{block.name}</p>
-          <p className="truncate text-[12px] text-text-secondary">{block.path}</p>
+          <p className="truncate text-ui-sm font-semibold text-white">{block.name}</p>
+          <p className="truncate text-ui-xs text-text-secondary">{block.path}</p>
         </div>
         <button type="button" className="icon-btn h-7 w-7" aria-label="Share">
           <IconShare size={16} />
@@ -339,11 +339,11 @@ function LinkCard({ block }: { block: Extract<MessageBlock, { kind: "link" }> })
         <div className="h-24 w-24 shrink-0 bg-[#333]" />
       )}
       <span className="min-w-0 flex-1 px-3 py-2">
-        <span className="line-clamp-2 text-[13px] font-semibold text-white">{block.title}</span>
+        <span className="line-clamp-2 text-ui-sm font-semibold text-white">{block.title}</span>
         {block.description ? (
-          <span className="mt-0.5 line-clamp-2 text-[12px] text-text-secondary">{block.description}</span>
+          <span className="mt-0.5 line-clamp-2 text-ui-xs text-text-secondary">{block.description}</span>
         ) : null}
-        <span className="mt-1 block truncate text-[11px] text-text-secondary">
+        <span className="mt-1 block truncate text-ui-2xs text-text-secondary">
           {new URL(block.url, "https://nyn.me").hostname}
         </span>
       </span>

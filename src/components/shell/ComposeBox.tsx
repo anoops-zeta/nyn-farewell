@@ -46,7 +46,7 @@ export function ComposeBox({
                 key={chip}
                 type="button"
                 onClick={() => sendReply(chip)}
-                className="rounded-full border border-[#4a4a4a] bg-[#2a2a2a] px-3 py-1 text-[13px] text-text-primary hover:bg-[#333]"
+                className="rounded-full border border-[#4a4a4a] bg-[#2a2a2a] px-3 py-1 text-ui-sm text-text-primary hover:bg-[#333]"
               >
                 {chip}
               </button>
@@ -55,7 +55,7 @@ export function ComposeBox({
         ) : null}
 
         {notice ? (
-          <div className="flex items-center gap-2 rounded-t-lg bg-notice-bg px-3 py-1 text-[15px] leading-snug text-[#e8d4e8]">
+          <div className="flex items-center gap-2 rounded-t-lg bg-notice-bg px-3 py-1 text-[13px] leading-snug text-[#e8d4e8] max-md:text-[16px]">
             <span className="min-w-0 flex-1 truncate">{notice}</span>
             <button type="button" className="inline-flex h-5 w-5 shrink-0 items-center justify-center rounded text-[#e8d4e8]/80 hover:text-white" aria-label="Dismiss">
               <IconDismiss size={12} />
@@ -73,7 +73,7 @@ export function ComposeBox({
             onChange={(e) => setCompose(e.target.value)}
             onKeyDown={onKeyDown}
             placeholder="Type a message"
-            className="h-full min-w-0 flex-1 bg-transparent text-[15px] text-text-primary outline-none placeholder:text-text-secondary"
+            className="h-full min-w-0 flex-1 bg-transparent text-[15px] text-text-primary outline-none placeholder:text-text-secondary max-md:text-[16px]"
             aria-label={`Message ${config.nyn.name}`}
           />
           <div className="ml-2 flex items-center gap-0.5 text-text-secondary">

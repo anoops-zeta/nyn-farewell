@@ -92,6 +92,10 @@ function writeChat(state: State, personId: string, chat: ChatProgress): State {
   };
 }
 
+function isMobileViewport(): boolean {
+  return typeof window !== "undefined" && window.matchMedia("(max-width: 767px)").matches;
+}
+
 const bootView = hashToView(typeof window === "undefined" ? "" : window.location.hash);
 
 const initial: State = {
@@ -103,7 +107,8 @@ const initial: State = {
   mobileShowList:
     typeof window === "undefined"
       ? true
-      : !/#\/(chat|copilot|mentions|drafts|teams)/.test(window.location.hash),
+      : isMobileViewport() ||
+        !/#\/(chat|copilot|mentions|drafts|teams)/.test(window.location.hash),
   chatFilter: "all",
   persist: loadPersist(),
   readInSession: bootView.kind === "chat" ? { [bootView.id]: true } : {},

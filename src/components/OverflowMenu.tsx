@@ -65,7 +65,7 @@ export function OverflowMenu({
               key={item.label}
               type="button"
               role="menuitem"
-              className="flex h-9 w-full items-center px-3 text-left text-[13px] text-text-primary hover:bg-white/10"
+              className="flex h-9 w-full items-center px-3 text-left text-ui-sm text-text-primary hover:bg-white/10"
               onClick={() => {
                 item.onClick();
                 setOpen(false);
