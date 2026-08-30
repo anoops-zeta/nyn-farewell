@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "deploy:gh-pages": "BASE_PATH=/nyn-farewell/ npm run build && gh-pages -d dist --nojekyll"
+    "deploy:gh-pages": "BASE_PATH=/nyn-farewell/ VITE_MEDIA_CDN=https://thanksnyn.com npm run build && rm -rf dist/media/videos/*.mp4 && gh-pages -d dist --nojekyll"
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.10",
