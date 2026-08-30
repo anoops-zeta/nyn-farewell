@@ -83,14 +83,15 @@ button {
 }
 
 /* Thin Teams-like scrollbars */
-.teams-scroll::-webkit-scrollbar {
-  width: 8px;
-}
+.teams-scroll,
 .teams-scroll-sidebar {
-  padding-right: 2px;
   scrollbar-width: thin;
   scrollbar-color: #5a5a5a transparent;
 }
+.teams-scroll-sidebar {
+  padding-right: 2px;
+}
+.teams-scroll::-webkit-scrollbar,
 .teams-scroll-sidebar::-webkit-scrollbar {
   width: 6px;
 }
@@ -101,9 +102,6 @@ button {
 .teams-scroll::-webkit-scrollbar-thumb,
 .teams-scroll-sidebar::-webkit-scrollbar-thumb {
   background: #5a5a5a;
-  border-radius: 8px;
-}
-.teams-scroll-sidebar::-webkit-scrollbar-thumb {
   border-radius: 4px;
 }
 .teams-scroll::-webkit-scrollbar-thumb:hover,
