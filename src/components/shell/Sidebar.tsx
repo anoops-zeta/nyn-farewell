@@ -154,6 +154,11 @@ export function Sidebar() {
   const is = (next: AppView) =>
     view.kind === next.kind && (next.kind !== "chat" || (view.kind === "chat" && view.id === next.id));
 
+  const filterActive = chatFilter !== "all";
+  const showFavourites = !filterActive || favouritePeople.length > 0;
+  const showChats = !filterActive || chatPeople.length > 0;
+  const showChatSections = showFavourites || showChats;
+
   const openChat = (personId: string) => {
     navigate({ kind: "chat", id: personId });
   };
@@ -214,47 +219,59 @@ export function Sidebar() {
           onSelect={() => navigate({ kind: "drafts" })}
         />
 
-        <div className="mx-3 my-2 h-px bg-white/10" />
+        {showChatSections ? (
+          <>
+            <div className="mx-3 my-2 h-px bg-white/10" />
 
-        <SectionHeader
-          label="Favourites"
-          open={sections.favourites}
-          onToggle={() => toggleSection("favourites")}
-        />
-        {sections.favourites &&
-          (favouritePeople.length === 0 ? (
-            <p className="px-4 py-1 text-[12px] text-text-secondary">No matches</p>
-          ) : (
-            favouritePeople.map((person) => (
-              <ChatRow
-                key={person.id}
-                person={person}
-                readInSession={readInSession}
-                selected={is({ kind: "chat", id: person.id })}
-                onSelect={() => openChat(person.id)}
-              />
-            ))
-          ))}
+            {showFavourites ? (
+              <>
+                <SectionHeader
+                  label="Favourites"
+                  open={sections.favourites}
+                  onToggle={() => toggleSection("favourites")}
+                />
+                {sections.favourites &&
+                  (favouritePeople.length === 0 ? (
+                    <p className="px-4 py-1 text-[12px] text-text-secondary">No matches</p>
+                  ) : (
+                    favouritePeople.map((person) => (
+                      <ChatRow
+                        key={person.id}
+                        person={person}
+                        readInSession={readInSession}
+                        selected={is({ kind: "chat", id: person.id })}
+                        onSelect={() => openChat(person.id)}
+                      />
+                    ))
+                  ))}
+              </>
+            ) : null}
 
-        <SectionHeader
-          label="Chats"
-          open={sections.chats}
-          onToggle={() => toggleSection("chats")}
-        />
-        {sections.chats &&
-          (chatPeople.length === 0 ? (
-            <p className="px-4 py-1 text-[12px] text-text-secondary">No matches</p>
-          ) : (
-            chatPeople.map((person) => (
-              <ChatRow
-                key={person.id}
-                person={person}
-                readInSession={readInSession}
-                selected={is({ kind: "chat", id: person.id })}
-                onSelect={() => openChat(person.id)}
-              />
-            ))
-          ))}
+            {showChats ? (
+              <>
+                <SectionHeader
+                  label="Chats"
+                  open={sections.chats}
+                  onToggle={() => toggleSection("chats")}
+                />
+                {sections.chats &&
+                  (chatPeople.length === 0 ? (
+                    <p className="px-4 py-1 text-[12px] text-text-secondary">No matches</p>
+                  ) : (
+                    chatPeople.map((person) => (
+                      <ChatRow
+                        key={person.id}
+                        person={person}
+                        readInSession={readInSession}
+                        selected={is({ kind: "chat", id: person.id })}
+                        onSelect={() => openChat(person.id)}
+                      />
+                    ))
+                  ))}
+              </>
+            ) : null}
+          </>
+        ) : null}
       </div>
     </aside>
   );
