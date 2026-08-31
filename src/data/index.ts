@@ -51,7 +51,9 @@ export function favouritePeople(): Person[] {
 }
 
 export function chatPeople(): Person[] {
-  return people.filter((p) => p.section !== "favourites").sort((a, b) => a.order - b.order);
+  return people
+    .filter((p) => p.section !== "favourites")
+    .sort((a, b) => a.name.localeCompare(b.name, undefined, { sensitivity: "base" }));
 }
 
 export function allPeople(): Person[] {

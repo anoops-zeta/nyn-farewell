@@ -782,11 +782,11 @@
     "thread": [
       {
         "type": "system",
-        "value": "Anoop Sethumadhavan created this chat"
+        "value": "Violet Fernandes created this chat"
       },
       {
         "type": "system",
-        "value": "Anoop Sethumadhavan named the group One more song"
+        "value": "Violet Fernandes named the group One more song"
       },
       {
         "type": "date",
@@ -808,12 +808,35 @@
             "placeholder": false
           }
         ],
-        "sender": "Anoop Sethumadhavan",
+        "sender": "Violet Fernandes",
         "senderColor": "purple",
         "reactions": [
           "🎶",
           "😂",
           "❤️"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "7:28 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Same night. Different angle. Still got requests for an encore."
+          },
+          {
+            "kind": "video",
+            "src": "/media/videos/narayan-plutus-offsite-song-fav.mp4",
+            "poster": "/media/videos/posters/narayan-plutus-offsite-song-fav.jpg",
+            "placeholder": false
+          }
+        ],
+        "sender": "Anoop Sethumadhavan",
+        "senderColor": "purple",
+        "reactions": [
+          "🎤",
+          "😂"
         ]
       }
     ]
