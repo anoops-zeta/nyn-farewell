@@ -45,9 +45,7 @@ export function studioPerson(): Person {
 
 export function favouritePeople(): Person[] {
   const fromData = people.filter((p) => p.section === "favourites").sort((a, b) => a.order - b.order);
-  const studio = fromData.find((p) => p.id === config.studio.id) ?? studioPerson();
-  const rest = fromData.filter((p) => p.id !== config.studio.id);
-  return [nynPerson(), studio, ...rest];
+  return [nynPerson(), ...fromData];
 }
 
 export function chatPeople(): Person[] {

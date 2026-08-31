@@ -65,6 +65,70 @@
     ]
   },
   {
+    "id": "dont-open-yet",
+    "name": "Don't open yet",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "pink",
+    "presence": "available",
+    "section": "favourites",
+    "order": 1,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:34 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hey everyone — it's a little strange to think that after five years, Narayan is actually leaving. I know how much this place, and especially all the people there, meant to him."
+          },
+          {
+            "kind": "text",
+            "value": "With how many times I've heard all your stories and names at home, I sometimes feel like I know some of you so well already."
+          },
+          {
+            "kind": "text",
+            "value": "I'm sure all of you are going to miss his terrible jokes — which unfortunately for me are going to be available at home full time."
+          },
+          {
+            "kind": "text",
+            "value": "He says he's taking a break, but in reality he's just been burning tokens. And that's what he's going to be doing — an alarming number of AI tokens. So we'll see where that goes next."
+          },
+          {
+            "kind": "text",
+            "value": "But selfishly, honestly, I'm really excited to have him all for myself at home for a while."
+          },
+          {
+            "kind": "text",
+            "value": "Narayan, congratulations on an amazing five years. I know you're going to miss a lot of people there, and I'm sure they'll miss you too. Waiting for you. Bye."
+          },
+          {
+            "kind": "video",
+            "src": "/media/videos/anusha.mp4",
+            "poster": "/media/videos/posters/anusha.jpg",
+            "placeholder": false,
+            "transcript": "Hey everyone — it's a little strange to think that after five years, Narayan is actually leaving. I know how much this place, and especially all the people there, meant to him.\n\nWith how many times I've heard all your stories and names at home, I sometimes feel like I know some of you so well already.\n\nI'm sure all of you are going to miss his terrible jokes — which unfortunately for me are going to be available at home full time.\n\nHe says he's taking a break, but in reality he's just been burning tokens. And that's what he's going to be doing — an alarming number of AI tokens. So we'll see where that goes next.\n\nBut selfishly, honestly, I'm really excited to have him all for myself at home for a while.\n\nNarayan, congratulations on an amazing five years. I know you're going to miss a lot of people there, and I'm sure they'll miss you too. Waiting for you. Bye."
+          }
+        ],
+        "sender": "Anusha",
+        "senderColor": "pink",
+        "reactions": [
+          "❤️",
+          "❤️",
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
     "id": "payzapp-studio",
     "name": "PayZapp Studio",
     "title": "Team",
