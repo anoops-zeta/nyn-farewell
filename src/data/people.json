@@ -3264,6 +3264,62 @@
     ]
   },
   {
+    "id": "saransh-sharma",
+    "name": "Saransh Sharma",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "green",
+    "presence": "available",
+    "section": "chats",
+    "order": 20,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:32 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi Narayan, I just want to say a genuine thank you to you. You have been someone I've really looked up to — not just in the way you lead at work, but also how you approach life, fitness, and the balance between it all."
+          },
+          {
+            "kind": "text",
+            "value": "I've had some of my most fun moments here during things like TurboShip Day — building, experimenting, and shipping fast with that hacker energy that you help bring in here."
+          },
+          {
+            "kind": "text",
+            "value": "More personally, I want to thank you for the trust you've placed in me. By letting me lead the payments team and then the PayZapp platform, those opportunities really gave me a lot of room to learn and grow."
+          },
+          {
+            "kind": "text",
+            "value": "One thing I'm especially grateful to you for is getting me Feroza as a coach. That has genuinely helped me be more thoughtful and effective as a leader and contributor — and I know that investment came from you believing in my growth."
+          },
+          {
+            "kind": "text",
+            "value": "I've learnt a lot from you, Narayan, and I'm genuinely grateful for it all. Wishing you the absolute best in whatever comes next."
+          },
+          {
+            "kind": "video",
+            "src": "/media/videos/saransh-sharma.mp4",
+            "poster": "/media/videos/posters/saransh-sharma.jpg",
+            "placeholder": false,
+            "transcript": "Hi Narayan, I just want to say a genuine thank you to you. You have been someone I've really looked up to — not just in the way you lead at work, but also how you approach life, fitness, and the balance between it all.\n\nI've had some of my most fun moments here during things like TurboShip Day — building, experimenting, and shipping fast with that hacker energy that you help bring in here.\n\nMore personally, I want to thank you for the trust you've placed in me. By letting me lead the payments team and then the PayZapp platform, those opportunities really gave me a lot of room to learn and grow.\n\nOne thing I'm especially grateful to you for is getting me Feroza as a coach. That has genuinely helped me be more thoughtful and effective as a leader and contributor — and I know that investment came from you believing in my growth.\n\nI've learnt a lot from you, Narayan, and I'm genuinely grateful for it all. Wishing you the absolute best in whatever comes next."
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
     "id": "gff-war-room",
     "name": "GFF War Room",
     "title": "Group chat · Launch",
