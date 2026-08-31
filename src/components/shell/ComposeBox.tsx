@@ -40,11 +40,12 @@ export function ComposeBox({
   }
 
   useEffect(() => {
+    if (isMobile) return;
     const frame = requestAnimationFrame(() => {
       inputRef.current?.focus({ preventScroll: true });
     });
     return () => cancelAnimationFrame(frame);
-  }, [chatId]);
+  }, [chatId, isMobile]);
 
   return (
     <div className="shrink-0 pb-[max(0.75rem,env(safe-area-inset-bottom))] pt-2">
