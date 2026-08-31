@@ -118,6 +118,38 @@
       },
       {
         "type": "date",
+        "value": "April 2023"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "7:12 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/shared-image-11.jpg",
+            "caption": "PZ Offsite 2023 — Ooty. The Hill-Escape photo booth survived the night."
+          }
+        ],
+        "sender": "Jim Kim",
+        "senderColor": "yellow"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "7:18 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/shared-image-16.jpg",
+            "caption": "Full team at Ooty — PZ Studio wall, hoodies, and everyone who made it into frame."
+          }
+        ],
+        "sender": "Pallavi Shukla",
+        "senderColor": "pink"
+      },
+      {
+        "type": "date",
         "value": "5 April 2024"
       },
       {
@@ -490,6 +522,29 @@
       },
       {
         "type": "date",
+        "value": "November 2025"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:08 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/shared-image-13.jpg",
+            "caption": "Diwali at the studio. Marigolds, diyas, and traditional wear."
+          },
+          {
+            "kind": "image",
+            "src": "/media/web/shared-image-15.jpg",
+            "caption": "\"Burn bright — it's festival of lights.\" Photo booth prop checked out."
+          }
+        ],
+        "sender": "Bharathi Shekar",
+        "senderColor": "blue"
+      },
+      {
+        "type": "date",
         "value": "8 January 2026"
       },
       {
@@ -518,6 +573,47 @@
         "reactions": [
           "❤️",
           "👍"
+        ]
+      },
+      {
+        "type": "date",
+        "value": "10 January 2026"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Pallavi Shukla",
+        "senderColor": "pink",
+        "time": "4:45 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/shared-image-10.jpg",
+            "caption": "A&B award felicitation. Full formal. Narayan in the tux — obviously."
+          }
+        ],
+        "reactions": [
+          "❤️",
+          "👏",
+          "🎉"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "sender": "Pallavi Shukla",
+        "senderColor": "pink",
+        "time": "5:02 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/shared-image-17.jpg",
+            "caption": "Studio bay selfie before everyone scattered. Gift box still on the table."
+          }
+        ],
+        "reactions": [
+          "❤️",
+          "😂"
         ]
       },
       {
@@ -613,6 +709,25 @@
         ],
         "sender": "Vikram Bhati",
         "senderColor": "pink"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "5:30 pm",
+        "blocks": [
+          {
+            "kind": "image",
+            "src": "/media/web/shared-image-12.jpg",
+            "caption": "Studio bay — balloons, hex lights, the whole team in one frame."
+          },
+          {
+            "kind": "image",
+            "src": "/media/web/shared-image-14.jpg",
+            "caption": "PayZapp Studio hoodies. If you're not wearing one in the photo, you're in the next one."
+          }
+        ],
+        "sender": "Saransh Sharma",
+        "senderColor": "green"
       },
       {
         "type": "message",
@@ -1414,6 +1529,158 @@
           {
             "kind": "text",
             "value": "Wishing you all the very best for your next adventure. Thank you for your invaluable contributions to PayZapp and the lasting impact you've had on all of us."
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "violet-fernandes",
+    "name": "Violet Fernandes",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "purple",
+    "presence": "available",
+    "section": "chats",
+    "order": 11,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:06 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Dear Narayan,"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:06 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "It's hard to put into words what these 4 years and 10 months have meant from Plutus to Payzapp studio, but I'll try.  I've rarely met anyone with as much genuine passion for technology as you — the ideas and perspectives you bring to the table are consistently insightful and refreshingly out of the box. What makes you truly special is that you never kept that brilliance to yourself; you ensured the entire team grew alongside you, going out of your way to help the team excel and navigate every challenge together. You consistently put the team first, making sure we felt comfortable and supported."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:07 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "You never hesitated to say yes when we wanted to do something for the team, and that trust meant a great deal to us. It has been an honor working with you and getting to know you so closely."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:08 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I'll always cherish our morning chats ☕ — they were like your quiet warm-up before the BEARN & EARN connects😉. I'd join in a few minutes early, and we'd end up having the sweetest, most spontaneous conversations. Thank you for always making time to listen."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Morning chats ☕",
+          "Ferrero Rocher tax still applies",
+          "Thank you Violet 🙏"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:09 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I'll miss the countless war rooms, the Thursday Club, townhalls, A&B Felicitations, team engagements, staff connects — simply too many moments to count, and every time you'd ask us what unhealthy snacks we were going to order 😉\nAnd of course, there's the offsite where your car broke down — still one of the funniest stories we have 🚗😂. Not to forget your go-to exercise, push-ups, which you never skipped, whether in the office or at offsites. 💪 This page truly isn't enough to hold all these memories."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:10 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "And who could forget the memories from the Plutus Leadership meetings — your self-appointed role of collecting contributions from anyone who stepped in late, all in the name of ordering everyone's favorite Ferrero Rocher chocolates 😄"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:11 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Your passion for football ⚽ and the way you encourage your son to be his best is inspiring to watch. Your love for coffee ☕and Indian sweets 🍬, cars 🚙, fitness (counting those calories like a true perfectionist 😄), and your Meta glasses — I'll miss those conversations and watching you use them on the floor. Your love for music 🎶 rounds it all out and of course, how can I forget the PJs there's simply so much to you, Narayan, much like the person you are. Your weekend getaways to the farmhouse 🌳 — I hope to visit someday; I've heard and seen so much about everything you've built there with your own hands. And of course, your legendary rollercoaster of a house project 🎢 — hoping it's finally complete, or still happily in progress!"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:12 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Thank you as well for your warmth and care — every time I took sick leave, for myself or my family, you checked in to see how things were. That gesture meant more than you know, and it's something I'll always remember. 🙏"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:13 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "There was simply too much to capture in a video, so I wanted to put it in writing instead."
+          },
+          {
+            "kind": "text",
+            "value": "Thank you, sincerely, for everything. It has been a privilege working with and learning from you. Thank you for standing by us, always. This isn't goodbye — we'll stay in touch. 🤝"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "8:14 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Wishing you continued success in whatever comes next — I have no doubt you'll shine, because for you, the sky was never the limit. ✨"
+          },
+          {
+            "kind": "text",
+            "value": "Until next time, Narayan. 👋"
+          },
+          {
+            "kind": "text",
+            "value": "With gratitude and best wishes,\nViolet Fernandes"
           }
         ],
         "reactions": [
