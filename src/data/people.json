@@ -149,26 +149,6 @@
         "senderColor": "pink"
       },
       {
-        "type": "message",
-        "from": "them",
-        "time": "7:22 pm",
-        "blocks": [
-          {
-            "kind": "video",
-            "src": "/media/videos/narayan-plutus-offsite-song.mp4",
-            "poster": "/media/videos/posters/narayan-plutus-offsite-song.jpg",
-            "placeholder": false
-          }
-        ],
-        "sender": "Anoop Sethumadhavan",
-        "senderColor": "purple",
-        "reactions": [
-          "🎶",
-          "😂",
-          "❤️"
-        ]
-      },
-      {
         "type": "date",
         "value": "5 April 2024"
       },
@@ -779,6 +759,61 @@
         "reactions": [
           "🥴",
           "😂"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "one-more-song",
+    "name": "One more song",
+    "title": "Group chat · Karaoke",
+    "kind": "group",
+    "initialsColor": "pink",
+    "presence": null,
+    "section": "favourites",
+    "order": 4,
+    "unread": true,
+    "pinnedMessage": {
+      "author": "Narayan Babu",
+      "text": "I sing from the heart. Doctors disagree.",
+      "date": "04/23"
+    },
+    "notice": null,
+    "thread": [
+      {
+        "type": "system",
+        "value": "Anoop Sethumadhavan created this chat"
+      },
+      {
+        "type": "system",
+        "value": "Anoop Sethumadhavan named the group One more song"
+      },
+      {
+        "type": "date",
+        "value": "April 2023"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "7:22 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Plutus offsite. The one they still ask for."
+          },
+          {
+            "kind": "video",
+            "src": "/media/videos/narayan-plutus-offsite-song.mp4",
+            "poster": "/media/videos/posters/narayan-plutus-offsite-song.jpg",
+            "placeholder": false
+          }
+        ],
+        "sender": "Anoop Sethumadhavan",
+        "senderColor": "purple",
+        "reactions": [
+          "🎶",
+          "😂",
+          "❤️"
         ]
       }
     ]
@@ -2023,6 +2058,91 @@
             "placeholder": false,
             "transcript": "Hello Narayan. Our journey started long back — so this isn't a farewell message as much as a thank you, as you wrap up your journey at Zeta today.\n\nI want to say how much I've enjoyed working with you. You're the one who introduced me to PayZapp and various other products at Zeta, and it was an amazing journey.\n\nWhat I admire is the way you build products and engineering — the out-of-the-box thinking you bring. You don't just talk about it. You go and implement it. That's a very rare combination, Narayan, and truly inspiring.\n\nWhat I'm going to miss most is our conversations outside of work — reviewing protein powders, talking about which startups are going to hit next year, the technology that's going to disrupt the market. Those conversations make work life lighter.\n\nThis isn't the end — I'm pretty sure we'll keep meeting and discussing ideas outside Zeta. Thanks for trusting me, and all the best for your future endeavours."
           }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "manish-sharma",
+    "name": "Manish Sharma",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "green",
+    "presence": "available",
+    "section": "chats",
+    "order": 17,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:28 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Narayan has been a great mentor and coach and has always been my go-to person whenever I needed guidance."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:28 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "His approachability and willingness to listen truly set him apart, and I have genuinely loved working with him."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:29 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I especially remember the times we went testing autonomous driving in his Volkswagen — those experiences were both memorable and a great learning opportunity."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Thank you Manish 🙏",
+          "The Volkswagen still remembers",
+          "ADAS testing days"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:30 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "He is grounded, realistic, and always brings a practical perspective to challenges."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:30 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I'm truly grateful for his mentorship and the impact he has had on my professional and personal growth."
+          }
+        ],
+        "reactions": [
+          "❤️"
         ]
       }
     ]

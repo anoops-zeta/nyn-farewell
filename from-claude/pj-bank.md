@@ -22,6 +22,7 @@ four seconds. Anything that lands instantly is a quip, not a PJ.
 | They keep asking why I go by nyn. Ten felt like bragging. | Self-chat, farewell draft |
 | Don't call it an exit. Call it a graceful degradation. | Self-chat, last message |
 | Careful. I'm still in scope until Friday. | PJ Support Group — his reply chip |
+| I sing from the heart. Doctors disagree. | One more song — pinned bar |
 
 ---
 
@@ -50,7 +51,7 @@ four seconds. Anything that lands instantly is a quip, not a PJ.
 - I don't play badly. I play defensively. There's a difference and it's mostly in my head.
 
 **Offsite and karaoke**
-- I sing from the heart. Doctors disagree.
+- I sing from the heart. Doctors disagree. *(placed — One more song pin)*
 - They asked for one more song. I said I'd need a re-verse.
 
 **Zeta**
