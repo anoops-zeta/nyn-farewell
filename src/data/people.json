@@ -3990,10 +3990,27 @@
         "time": "5:10 pm",
         "blocks": [
           {
+            "kind": "text",
+            "value": "Hey Narayan, while I didn't work a lot with you, whenever we've had a chance to interact I've fully admired your passion for technology, doing stuff yourself, and most importantly — the fact that you always would not hesitate to speak your mind."
+          },
+          {
+            "kind": "text",
+            "value": "As long as you were convinced about what you felt was the right thing, you would never hold yourself back, and that's something that truly endeared you to me."
+          },
+          {
+            "kind": "text",
+            "value": "I wish you all the very best, Narayan, whatever you do going forward. Remember that following your passion is something you've always believed in, and that's something that will always stand you in good stead."
+          },
+          {
+            "kind": "text",
+            "value": "All the best and take care."
+          },
+          {
             "kind": "video",
             "src": "/media/videos/shubhayu.mp4",
             "poster": "/media/videos/posters/shubhayu.jpg",
-            "placeholder": false
+            "placeholder": false,
+            "transcript": "Hey Narayan, while I didn't work a lot with you, whenever we've had a chance to interact I've fully admired your passion for technology, doing stuff yourself, and most importantly — the fact that you always would not hesitate to speak your mind.\n\nAs long as you were convinced about what you felt was the right thing, you would never hold yourself back, and that's something that truly endeared you to me.\n\nI wish you all the very best, Narayan, whatever you do going forward. Remember that following your passion is something you've always believed in, and that's something that will always stand you in good stead.\n\nAll the best and take care."
           }
         ]
       }
