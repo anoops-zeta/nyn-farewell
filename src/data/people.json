@@ -2819,6 +2819,91 @@
     ]
   },
   {
+    "id": "be-santhosh",
+    "name": "BE Santhosh",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "blue",
+    "presence": "available",
+    "section": "chats",
+    "order": 19,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:52 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi Narayan,"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:52 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "You have been one of the most caring, understanding, and approachable leaders we have had the opportunity to work with. What truly stood out was the way you gave equal importance and respect to every team and every individual, making everyone feel valued."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:53 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "We genuinely enjoyed working under your leadership and have learned a lot from your calm and empathetic approach. Your support, especially during challenging situations, gave the team a lot of confidence."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Thank you Santhosh 🙏",
+          "That calm carried us through",
+          "Means a lot, Sir"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:53 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "You will definitely be missed, both as a leader and as a wonderful person. Wishing you great success, happiness, and an exciting journey ahead. I'm sure you will continue to inspire and make a positive impact wherever you go."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:54 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Thank you for everything, Sir. All the very best!"
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
     "id": "divyansh-joshi",
     "name": "Divyansh Joshi",
     "title": null,
