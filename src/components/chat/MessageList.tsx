@@ -62,7 +62,7 @@ export function MessageList({ person }: { person: Person }) {
         {items.map((item, i) => {
           if (item.type === "date") {
             return (
-              <p key={`d-${i}`} className="py-2 text-center text-ui-sm text-text-secondary">
+              <p key={`d-${i}`} className="py-2 text-center text-[14px] leading-[18px] text-text-secondary">
                 {item.value}
               </p>
             );
@@ -78,7 +78,7 @@ export function MessageList({ person }: { person: Person }) {
           }
           if (item.type === "system") {
             return (
-              <p key={`s-${i}`} className="py-1 text-center text-ui-xs text-text-secondary">
+              <p key={`s-${i}`} className="py-1 text-center text-[14px] leading-[18px] text-text-secondary">
                 {item.value}
               </p>
             );

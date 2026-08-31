@@ -764,6 +764,665 @@
     ]
   },
   {
+    "id": "pallavi-shukla",
+    "name": "Pallavi Shukla",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "pink",
+    "presence": "available",
+    "section": "chats",
+    "order": 2,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:30 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi Narayan,"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:30 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "From the time I joined Zeta, I have had the opportunity to work very closely with you and the PayZapp team. It has been a truly wonderful experience, and I've learned so much along the way."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:31 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "You are a great example of leadership & i have always admired your multitalented, all-rounder personality. I've often wondered how one person can be so exceptionally talented and have so many different skills"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:31 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "What I admire most is how you have always thought about your team and constantly found new ways to engage and bring everyone together - be it Thursday Club, Super Zapper, AI workshops, Fun Fridays, multiple war rooms, and so many other initiatives. You've always made sure the team stayed connected, engaged, and motivated."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Thank you Pallavi 🙏",
+          "Thursday Club lives on",
+          "The jokes will continue"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:32 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "And of course, I will really miss the way you used to crack jokes and make everyone laugh around you. You had a wonderful way of bringing lightness and fun to even the busiest days."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:32 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Your presence is truly powerful, and I feel really lucky to have had the opportunity to work with you so closely and manage things alongside you. It has been an experience I will always cherish."
+          },
+          {
+            "kind": "text",
+            "value": "Thank you for all the learning, support, trust, guidance, and wonderful memories. You will definitely be missed!"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "11:33 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Wishing you nothing but the very best for this next chapter. Keep shining, keep inspiring, and keep being the amazing all-rounder that you are."
+          },
+          {
+            "kind": "text",
+            "value": "All the very best, Narayan"
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aditya-sadhukhan",
+    "name": "Aditya Sadhukhan",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "blue",
+    "presence": "available",
+    "section": "chats",
+    "order": 4,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:08 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Narayan, I may not have worked with you directly, but the Thursday Club definitely gave me enough memories! 😄"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:09 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Your PJs, especially the ones after 10 PM, are something that will keep coming back for a long time. Some were impossible to remember, but always so much fun! 😂"
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "The 10 PM PJs were elite",
+          "Thursday Club forever",
+          "Good luck Aditya 🙏"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:10 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Wishing you all the very best for your next venture. Hope it's an exciting one, and that you continue spreading the same energy, stories. Hope it's a great one, and that you keep the PJs coming!"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:10 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Good luck!"
+          }
+        ],
+        "reactions": [
+          "😂"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ganesh-r",
+    "name": "Ganesh R",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "yellow",
+    "presence": "available",
+    "section": "chats",
+    "order": 5,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:12 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "hi Narayan,"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:12 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "One of the most important qualities I have learnt from you is how to stand strongly behind your best-performing team members and go to a great extent to support them whenever required. This is one leadership quality that has stayed with me, and I continue to follow the same approach with my team."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:13 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Through our interactions during the calibration discussions, I also understood the importance of operating at my current role and level, clearly understanding what is expected from me, and continuously scaling up my skills to meet those expectations. Those conversations have helped me look at my role and my growth more clearly."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:13 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Another quality I have started following after seeing you is being empathetic towards team members and making a conscious effort to ensure that everyone feels supported, valued, and included."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Thank you Ganesh 🙏",
+          "Calibration days",
+          "Carry it forward"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:14 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Overall, it has been a great learning experience working with you over the last four and a half years. I will always remember the leadership lessons I have learnt from you and carry them forward in my own journey."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:14 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I sincerely hope our paths cross again in the future."
+          },
+          {
+            "kind": "text",
+            "value": "All the very best for your next journey, Narayan! You will definitely be missed."
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "johny-prasad",
+    "name": "Johny Prasad",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "red",
+    "presence": "available",
+    "section": "chats",
+    "order": 6,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "5:22 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Wishing you all the very best for your next chapter!"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "5:22 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Although I haven't had the opportunity to work very closely with you, I've always admired your work, your vision, and the passion you bring to everything you do. I've also really enjoyed the moments we got to spend together, especially during the trip—it was great getting to know you beyond work."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "5:23 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Your dedication towards fitness has also been something I've genuinely found inspiring. It's rare to see someone balance work, passion, and fitness with such consistency."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Thank you Johny 🙏",
+          "That trip was a good one",
+          "Fitness goals unchanged"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "5:24 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Thank you for the inspiration and the memories. Wishing you continued success, happiness, and many more achievements ahead. You'll definitely be missed."
+          },
+          {
+            "kind": "text",
+            "value": "All the best!"
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "minal-bhatia",
+    "name": "Minal Bhatia",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "purple",
+    "presence": "available",
+    "section": "chats",
+    "order": 7,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:08 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Dear Narayan,"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:08 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Your contributions to PayZapp have been invaluable and the impact of your leadership will continue to be felt. It's been a privilege working with you."
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arun-mg",
+    "name": "Arun MG",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "green",
+    "presence": "available",
+    "section": "chats",
+    "order": 8,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:05 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "You included contract employees in offsites — because to you, everyone was team Zeta."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:05 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "You made sure every person's contribution was equally seen, valued, and measured."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:06 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "You went the extra mile by converting contractors to full-time Zeta employees."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:06 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Your SIT formation framework was adopted across the entire Zeta org — a true mark of impactful leadership."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:07 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "During headcount reductions, you stood by every individual — sharing information transparently, ensuring no one was left behind, and personally making sure everyone found a place in other teams."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Thank you Arun 🙏",
+          "Team Zeta meant everyone",
+          "Those offsite songs though 🎵"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:08 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "And beyond all the leadership — your soulful singing at every offsite was pure joy, those memories will stay with us forever! 🎵"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:08 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Thank you, Narayan — your people-first leadership will always be remembered. All the best! 🎉"
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "harish-g",
+    "name": "Harish G",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "pink",
+    "presence": "available",
+    "section": "chats",
+    "order": 9,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "1:18 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Working with you has been more than just a professional journey, it's been an experience of learning, encouragement, and inspiration."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "1:18 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Your ability to lead with clarity while staying approachable has left a lasting impression on me."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Thank you Harish 🙏",
+          "Clear and approachable — noted",
+          "Onward and upward"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "1:19 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "As you move forward, I'll truly miss your presence and guidance, but I'm excited to see the new heights you'll reach."
+          },
+          {
+            "kind": "text",
+            "value": "Wishing you happiness, health, and continued success in everything ahead."
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "janith-u",
+    "name": "Janith U",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "blue",
+    "presence": "available",
+    "section": "chats",
+    "order": 10,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "12:42 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Dear Narayan,"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "12:42 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Thank you for being an incredible leader and friend. Your guidance, trust, and unwavering encouragement have had a lasting impact on my professional journey."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "12:43 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Your humility, wisdom, and ability to bring out the best in people have always inspired me. It has been a privilege working with you, and the lessons I've learned from you will stay with me throughout my career."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Thank you Janith 🙏",
+          "Leader and friend",
+          "Next adventure"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "12:43 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Wishing you all the very best for your next adventure. Thank you for your invaluable contributions to PayZapp and the lasting impact you've had on all of us."
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
     "id": "naveen-jahagirdar",
     "name": "Naveen Jahagirdar",
     "title": null,
