@@ -149,6 +149,26 @@
         "senderColor": "pink"
       },
       {
+        "type": "message",
+        "from": "them",
+        "time": "7:22 pm",
+        "blocks": [
+          {
+            "kind": "video",
+            "src": "/media/videos/narayan-plutus-offsite-song.mp4",
+            "poster": "/media/videos/posters/narayan-plutus-offsite-song.jpg",
+            "placeholder": false
+          }
+        ],
+        "sender": "Anoop Sethumadhavan",
+        "senderColor": "purple",
+        "reactions": [
+          "🎶",
+          "😂",
+          "❤️"
+        ]
+      },
+      {
         "type": "date",
         "value": "5 April 2024"
       },
@@ -1685,6 +1705,324 @@
         ],
         "reactions": [
           "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "veerappa-samy-s",
+    "name": "Veerappa Samy S",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "yellow",
+    "presence": "available",
+    "section": "chats",
+    "order": 12,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:38 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi Narayan, it's been really great working with you! From Lighthouse to TurboShip and all the UPI features, I've learnt a lot from you, especially from the way you think about problems and build products. Thanks for all the guidance, support and trust along the way. I've genuinely enjoyed our conversations and working together."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Thank you Veerappa 🙏",
+          "Lighthouse to TurboShip",
+          "Fitness game noted 💪"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "3:39 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "And of course, your fitness game 😄💪 is something I'll definitely remember and take inspiration from! Wishing you all the very best for what's next, Narayan. Will definitely miss working with you! 🙌"
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vikram-bhati",
+    "name": "Vikram Bhati",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "pink",
+    "presence": "available",
+    "section": "chats",
+    "order": 13,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:12 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Dear Narayan,"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:12 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "A big thank you for everything you've done for PayZapp and for the engineering culture you've helped build over the last four years."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:13 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Even though I had the opportunity to work with you as my manager for only a brief period, your impact has been truly lasting. You introduced concepts like Domain-Driven Design and Clean Architecture to PayZapp and, more importantly, changed the way engineers think about building products. The discipline of first documenting the use cases and defining the entity model gave us a strong foundation and played a huge role in helping us build a quality product."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:14 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "You also brought a strong startup culture to PayZapp through initiatives like the Thursday Club. Under your guidance, we had many successful Thursday Clubs that brought engineers together to experiment, brainstorm, build, and think like product owners rather than simply focusing on their day-to-day tasks. I especially feel this had a great impact on the newer folks joining PayZapp, helping them develop a strong product mindset right from the beginning."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Thank you Vikram 🙏",
+          "DDD changed the floor",
+          "Thursday Club forever"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:15 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "What I've always admired is your mindset of experimenting, challenging the status quo, and striving for a pixel-perfect experience. You encouraged everyone to think beyond routine execution and constantly look for ways to add that extra \"wow\" factor to what we build."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:15 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Thank you for guiding and inspiring us right from the inception of PayZapp. Your energy, passion, and presence on the floor will truly be missed."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "4:16 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Wishing you all the very best for your next chapter. I'm sure you'll continue to create the same impact wherever you go."
+          },
+          {
+            "kind": "text",
+            "value": "Thank you, Narayan, and all the very best for your future endeavours! 🙏"
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rajiv-tandon",
+    "name": "Rajiv Tandon",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "red",
+    "presence": "available",
+    "section": "chats",
+    "order": 14,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "5:48 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hey Narayan, just wanted to say a very big thank you for all the trust you've placed in me over these years, and all the opportunities you've helped me with."
+          },
+          {
+            "kind": "text",
+            "value": "One thing I definitely want to call out — and I hope this never changes — is that you don't mind being the unpopular voice in the room when you truly believe in something. You stand up for what is right. I truly appreciate that about you, and of course your candour."
+          },
+          {
+            "kind": "text",
+            "value": "This isn't really a farewell message — but what I'll definitely miss is our candid conversations over lunch, where you'd tell me about all the new tech you'd explored, whatever you were building, your side projects, and so on."
+          },
+          {
+            "kind": "text",
+            "value": "I don't think this changes how often we talk — but I'll miss having you physically in the office. I'm very excited about what you're building next, and I'm sure I'll be watching closely."
+          },
+          {
+            "kind": "video",
+            "src": "/media/videos/rajiv-tandon.mp4",
+            "poster": "/media/videos/posters/rajiv-tandon.jpg",
+            "placeholder": false,
+            "transcript": "Hey Narayan, just wanted to say a very big thank you for all the trust you've placed in me over these years, and all the opportunities you've helped me with.\n\nOne thing I definitely want to call out — and I hope this never changes — is that you don't mind being the unpopular voice in the room when you truly believe in something. You stand up for what is right. I truly appreciate that about you, and of course your candour.\n\nThis isn't really a farewell message — but what I'll definitely miss is our candid conversations over lunch, where you'd tell me about all the new tech you'd explored, whatever you were building, your side projects, and so on.\n\nI don't think this changes how often we talk — but I'll miss having you physically in the office. I'm very excited about what you're building next, and I'm sure I'll be watching closely."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "abhishek-nair",
+    "name": "Abhishek Nair",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "pink",
+    "presence": "available",
+    "section": "chats",
+    "order": 15,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:02 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi Narayan — I was thinking about which moments I recollect, and funnily, the only ones that come to mind are all somehow sports-related."
+          },
+          {
+            "kind": "text",
+            "value": "We were in an inception once, following the India–England Test. Siraj was bowling. We needed ten wickets. I think the two of us were the only ones actively following ball by ball — and before the final wicket fell, you made us stop the meeting so we could both see the last five minutes."
+          },
+          {
+            "kind": "text",
+            "value": "And of course all our football moments — playing with you, all those Sundays, the tournament where you injured your hand. Apart from work, that's what I remember most."
+          },
+          {
+            "kind": "text",
+            "value": "What I want to share personally is how much you're doing outside of work. That stands out as clear inspiration — seeing you do all of that so well inspired me to ask why I wasn't doing more. Over the past six to eight months I've got a 3D printer, built websites, an app for my wife and the baby that only the three of us use — and I just love being a builder again. A lot of the credit for that comes from watching what you're able to do at such a high level."
+          },
+          {
+            "kind": "text",
+            "value": "I'll keep bugging you with things I build for feedback. We'll definitely miss having you around. I'm sure you'll kill whatever you decide to do next — all the best, and stay in touch."
+          },
+          {
+            "kind": "video",
+            "src": "/media/videos/abhishek-nair.mp4",
+            "poster": "/media/videos/posters/abhishek-nair.jpg",
+            "placeholder": false,
+            "transcript": "Hi Narayan — I was thinking about which moments I recollect, and funnily, the only ones that come to mind are all somehow sports-related.\n\nWe were in an inception once, following the India–England Test. Siraj was bowling. We needed ten wickets. I think the two of us were the only ones actively following ball by ball — and before the final wicket fell, you made us stop the meeting so we could both see the last five minutes.\n\nAnd of course all our football moments — playing with you, all those Sundays, the tournament where you injured your hand. Apart from work, that's what I remember most.\n\nWhat I want to share personally is how much you're doing outside of work. That stands out as clear inspiration — seeing you do all of that so well inspired me to ask why I wasn't doing more. Over the past six to eight months I've got a 3D printer, built websites, an app for my wife and the baby that only the three of us use — and I just love being a builder again. A lot of the credit for that comes from watching what you're able to do at such a high level.\n\nI'll keep bugging you with things I build for feedback. We'll definitely miss having you around. I'm sure you'll kill whatever you decide to do next — all the best, and stay in touch."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "eby-chembola",
+    "name": "Eby Chembola",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "blue",
+    "presence": "available",
+    "section": "chats",
+    "order": 16,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "6:15 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hello Narayan. Our journey started long back — so this isn't a farewell message as much as a thank you, as you wrap up your journey at Zeta today."
+          },
+          {
+            "kind": "text",
+            "value": "I want to say how much I've enjoyed working with you. You're the one who introduced me to PayZapp and various other products at Zeta, and it was an amazing journey."
+          },
+          {
+            "kind": "text",
+            "value": "What I admire is the way you build products and engineering — the out-of-the-box thinking you bring. You don't just talk about it. You go and implement it. That's a very rare combination, Narayan, and truly inspiring."
+          },
+          {
+            "kind": "text",
+            "value": "What I'm going to miss most is our conversations outside of work — reviewing protein powders, talking about which startups are going to hit next year, the technology that's going to disrupt the market. Those conversations make work life lighter."
+          },
+          {
+            "kind": "text",
+            "value": "This isn't the end — I'm pretty sure we'll keep meeting and discussing ideas outside Zeta. Thanks for trusting me, and all the best for your future endeavours."
+          },
+          {
+            "kind": "video",
+            "src": "/media/videos/eby-chembola.mp4",
+            "poster": "/media/videos/posters/eby-chembola.jpg",
+            "placeholder": false,
+            "transcript": "Hello Narayan. Our journey started long back — so this isn't a farewell message as much as a thank you, as you wrap up your journey at Zeta today.\n\nI want to say how much I've enjoyed working with you. You're the one who introduced me to PayZapp and various other products at Zeta, and it was an amazing journey.\n\nWhat I admire is the way you build products and engineering — the out-of-the-box thinking you bring. You don't just talk about it. You go and implement it. That's a very rare combination, Narayan, and truly inspiring.\n\nWhat I'm going to miss most is our conversations outside of work — reviewing protein powders, talking about which startups are going to hit next year, the technology that's going to disrupt the market. Those conversations make work life lighter.\n\nThis isn't the end — I'm pretty sure we'll keep meeting and discussing ideas outside Zeta. Thanks for trusting me, and all the best for your future endeavours."
+          }
         ]
       }
     ]
