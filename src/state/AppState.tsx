@@ -74,8 +74,7 @@ function hashToView(hash: string): AppView {
   if (head === "mentions") return { kind: "mentions" };
   if (head === "drafts") return { kind: "drafts" };
   if (head === "teams") return { kind: "teams" };
-  const first = [...people].sort((a, b) => a.order - b.order)[0];
-  return first ? { kind: "chat", id: first.id } : { kind: "copilot" };
+  return { kind: "chat", id: config.studio.id };
 }
 
 function progressOf(state: State, personId: string): ChatProgress {

@@ -2639,6 +2639,118 @@
             "caption": "Outstanding 2026"
           }
         ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "5:12 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Every system needs a founder event. For us, that was you. You didn't just build infrastructure — you built the belief that it would hold at three in the morning, every single time."
+          },
+          {
+            "kind": "text",
+            "value": "Under your watch, deployments orbited like planets and teams connected like constellations, growing further than any roadmap ever dared to draw."
+          },
+          {
+            "kind": "text",
+            "value": "And through it all — 99.999% uptime and a vibes meter permanently pegged at legendary."
+          },
+          {
+            "kind": "text",
+            "value": "Somewhere out there, right now, there's still one ticket marked in progress. We're calling that your legacy — always shipping, never quite finished."
+          },
+          {
+            "kind": "text",
+            "value": "Today a new mission launches — not away from us, just further. Thank you for the code, the calm in every outage, and the 2am calls nobody else would take. Godspeed, Captain. The horizon is yours now."
+          },
+          {
+            "kind": "video",
+            "src": "/media/videos/harsheet.mp4",
+            "poster": "/media/videos/posters/harsheet.jpg",
+            "placeholder": false,
+            "transcript": "Every system needs a founder event. For us, that was you. You didn't just build infrastructure — you built the belief that it would hold at three in the morning, every single time.\n\nUnder your watch, deployments orbited like planets and teams connected like constellations, growing further than any roadmap ever dared to draw.\n\nAnd through it all — 99.999% uptime and a vibes meter permanently pegged at legendary.\n\nSomewhere out there, right now, there's still one ticket marked in progress. We're calling that your legacy — always shipping, never quite finished.\n\nToday a new mission launches — not away from us, just further. Thank you for the code, the calm in every outage, and the 2am calls nobody else would take. Godspeed, Captain. The horizon is yours now."
+          }
+        ],
+        "reactions": [
+          "🚀",
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bhawna-nagpal",
+    "name": "Bhawna Nagpal",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "pink",
+    "presence": "available",
+    "section": "chats",
+    "order": 18,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:18 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Hi Narayan,"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:18 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "You have been an amazing tech leader for a design team to work with. I've always appreciated the freedom you've given designers to think from a design-first perspective and the way you've encouraged an environment of open and independent thought."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:19 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "It's not often that designers get the space to truly explore, challenge assumptions, and bring their perspective to the table, and I've really valued that about your leadership."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Thank you Bhawna 🙏",
+          "Design-first always",
+          "That meant a lot to the team"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "2:19 pm",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Thank you for fostering a culture where design feels heard, trusted, and empowered."
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
       }
     ]
   },
