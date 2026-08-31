@@ -649,6 +649,121 @@
     ]
   },
   {
+    "id": "anoop-sethumadhavan",
+    "name": "Anoop Sethumadhavan",
+    "title": null,
+    "kind": "person",
+    "initialsColor": "purple",
+    "presence": "available",
+    "section": "chats",
+    "order": 0,
+    "unread": true,
+    "pinnedMessage": null,
+    "notice": null,
+    "thread": [
+      {
+        "type": "date",
+        "value": "Today"
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:18 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Bhai,"
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:18 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Being fellow Malayalees, every one of our conversations started the same way - you'd say \"bhai,\" I'd say it right back. But nothing that followed was ever small talk. Every conversation with you - on design, on product, on the business behind it all - I walked out having learned something."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:19 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "You're one of the most knowledgeable people I've worked with, across a genuinely wide range of things, and that combination is rare."
+          },
+          {
+            "kind": "text",
+            "value": "What I've admired most is how candid you are. You speak your mind, always, and that kind of honesty is harder to find than people think."
+          }
+        ]
+      },
+      {
+        "type": "unlock",
+        "suggestions": [
+          "Bhai 🙏",
+          "The puns were undefeated",
+          "Go launch something"
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:20 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "As a design team, we've looked up to you as a strong proponent of customer obsession and good UX. You gave us more than direction - you gave us a reason to stand firmly on the user's side and advocate for them, always."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:21 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "You've also been a role model for building a builder's attitude in the team - Thursday Club, the collaborative learning sessions, the fun-loving culture you brought into everything. And of course, the one-liners. The puns. I'm a genuine fan."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:21 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "I loved hearing about the side projects too - the things you built just because you wanted to, some of them just for your kids. You've built a lot. Now go launch some of them ( :P ). The energy you brought to those conversations was infectious. Honestly, it's part of what pushed me back to the drawing board on a few of my own old ideas that I'd never found the motivation to finish."
+          }
+        ]
+      },
+      {
+        "type": "message",
+        "from": "them",
+        "time": "10:22 am",
+        "blocks": [
+          {
+            "kind": "text",
+            "value": "Thank you, Narayan, for all the learning, and for being such a strong leader for PayZapp Studio. We'll miss you. Wherever you go next, keep building, keep breaking things, and keep being exactly who you are."
+          },
+          {
+            "kind": "text",
+            "value": "Take care Bhai."
+          }
+        ],
+        "reactions": [
+          "❤️"
+        ]
+      }
+    ]
+  },
+  {
     "id": "naveen-jahagirdar",
     "name": "Naveen Jahagirdar",
     "title": null,

@@ -10,16 +10,19 @@ import {
 } from "@/icons";
 import { useIsMobile } from "@/hooks/useMediaQuery";
 import { useAppStore } from "@/state/AppState";
-import type { KeyboardEvent } from "react";
+import { useEffect, useRef, type KeyboardEvent } from "react";
 
 export function ComposeBox({
+  chatId,
   notice,
   suggestions,
 }: {
+  chatId: string;
   notice?: string | null;
   suggestions?: string[];
 }) {
   const isMobile = useIsMobile();
+  const inputRef = useRef<HTMLInputElement>(null);
   const { compose, setCompose, config, sendReply, playbackIdle } = useAppStore();
   const hasText = compose.trim().length > 0;
   const canSend = playbackIdle && hasText;
@@ -36,6 +39,13 @@ export function ComposeBox({
     }
   }
 
+  useEffect(() => {
+    const frame = requestAnimationFrame(() => {
+      inputRef.current?.focus({ preventScroll: true });
+    });
+    return () => cancelAnimationFrame(frame);
+  }, [chatId]);
+
   return (
     <div className="shrink-0 pb-[max(0.75rem,env(safe-area-inset-bottom))] pt-2">
       <ChatColumn>
@@ -46,7 +56,7 @@ export function ComposeBox({
                 key={chip}
                 type="button"
                 onClick={() => sendReply(chip)}
-                className="rounded-full border border-[#4a4a4a] bg-[#2a2a2a] px-3 py-1 text-ui-sm text-text-primary hover:bg-[#333]"
+                className="rounded-full border border-[#4a4a4a] bg-[#2a2a2a] px-3.5 py-1.5 text-[14px] leading-none text-text-primary hover:bg-[#333] md:px-4 md:py-2"
               >
                 {chip}
               </button>
@@ -69,6 +79,7 @@ export function ComposeBox({
           }`}
         >
           <input
+            ref={inputRef}
             value={compose}
             onChange={(e) => setCompose(e.target.value)}
             onKeyDown={onKeyDown}

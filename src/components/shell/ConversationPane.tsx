@@ -60,7 +60,13 @@ export function ConversationPane() {
           <NotesTab line={config.emptyCopy.notes} body={config.emptyCopy.notesBody} />
         )}
         {tab === "recap" && selectedPerson && <RecapTab person={selectedPerson} />}
-        {tab === "chat" && <ComposeBox notice={selectedPerson.notice} suggestions={suggestions} />}
+        {tab === "chat" && (
+          <ComposeBox
+            chatId={selectedPerson.id}
+            notice={selectedPerson.notice}
+            suggestions={suggestions}
+          />
+        )}
       </>
     );
   }
